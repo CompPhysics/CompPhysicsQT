@@ -1,72 +1,60 @@
-\documentclass[oneside,final,10pt]{article}
+\documentclass[aps,rmp,reprint,amsmath,amssymb,graphicx,longbibliography]{revtex4-1}
 
-\listfiles               %  print all files needed to compile this document
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{wrapfig}
+\usepackage{array} 
+\usepackage{listings}
+\usepackage[para,online,flushleft]{threeparttablex}
+\usepackage{booktabs,dcolumn}
+\usepackage{color}
 
-\usepackage{relsize,makeidx,color,setspace,amsmath,amsfonts,amssymb}
-\usepackage[table]{xcolor}
-\usepackage{bm,ltablex,microtype}
-\usepackage[pdftex]{graphicx}
+ 
 
-\usepackage[T1]{fontenc}
-%\usepackage[latin1]{inputenc}
-\usepackage{ucs}
-\usepackage[utf8x]{inputenc}
+\usepackage{textpos}
+\usepackage{booktabs}
+\usepackage{multirow,bigdelim}
+\usepackage{float}
 
-\usepackage{lmodern}         % Latin Modern fonts derived from Computer Modern
+\usepackage{upgreek} %upalpha in Saxena2021 Reference
 
-% Hyperlinks in PDF:
-\definecolor{linkcolor}{rgb}{0,0,0.4}
+\usepackage[utf8]{inputenc}
 \usepackage{hyperref}
-\hypersetup{
-    breaklinks=true,
-    colorlinks=true,
-    linkcolor=linkcolor,
-    urlcolor=linkcolor,
-    citecolor=black,
-    filecolor=black,
-    %filecolor=blue,
-    pdfmenubar=true,
-    pdftoolbar=true,
-    bookmarksdepth=3   % Uncomment (and tweak) for PDF bookmarks with more levels than the TOC
-    }
+\hypersetup{breaklinks=true,colorlinks=true,linkcolor=blue,citecolor=blue,filecolor=magenta,urlcolor=blue}
 
-\setcounter{tocdepth}{2}  % levels in table of contents
+\usepackage{xcolor}
+\newcommand{\contrib}[1]{\textcolor{red}{#1}}
+\newcommand{\comment}[1]{\textcolor{blue}{#1}}
+\newcommand{\WN}[1]{{\color{red} #1}}
 
-\setcounter{topnumber}{2}
-\setcounter{bottomnumber}{2}
-\setcounter{totalnumber}{4}
-\renewcommand{\topfraction}{0.95}
-\renewcommand{\bottomfraction}{0.95}
-\renewcommand{\textfraction}{0}
-\renewcommand{\floatpagefraction}{0.75}
-\clubpenalty = 10000
-\widowpenalty = 10000
-
-\raggedbottom
-\makeindex
-\usepackage[totoc]{idxlayout}   % for index in the toc
-\usepackage[nottoc]{tocbibind}  % for references/bibliography in the toc
+\makeatletter
+\def\@bibdataout@aps{%
+\immediate\write\@bibdataout{%
+@CONTROL{%
+apsrev41Control%
+\longbibliography@sw{%
+    ,author="08",editor="1",pages="1",title="0",year="1"%
+    }{%
+    ,author="08",editor="1",pages="1",title="",year="1"%
+    }%
+  }%
+}%
+\if@filesw \immediate \write \@auxout {\string \citation {apsrev41Control}}\fi
+}
+\makeatother
 
 \begin{document}
 
-\thispagestyle{empty}
+\title{Computational Physics and Quantum Technologies}, a new Bachelor of Science program  at the Department of Physics, University of Oslo}
 
-\begin{center}
-{\LARGE\bf
-\begin{spacing}{1.25}
-{\em Computational Physics and Quantum Technologies}, a new Bachelor of Science program  at the Department of Physics, University of Oslo
-\end{spacing}
-}
-\end{center}
+\author{Morten Hjorth-Jensen and Anders Malthe-Sørenssen}
+\affiliation{Department of Physics and Center for Computing in Science Education, University of Oslo, N-0316 Oslo, Norway}
 
 
-
-\vspace{1cm}
-
-
-\section*{Executive Summary}
-
-We (Morten Hjorth-Jensen and Anders Malthe-Sørenssen) propose to establish, with {\em startup Fall semester 2023}, a new bachelor/undergraduate program in {\bf Computational Physics and Quantum Technologies, (CompPhysQuantum)}  at the University of Oslo, hosted by the Department of Physics. 
+\begin{abstract}
+We propose to establish, with {\em startup Fall semester 2023}, a new bachelor/undergraduate program in {\bf Computational Physics and Quantum Technologies, (CompPhysQuantum)}  at the University of Oslo, hosted by the Department of Physics. 
+\end{abstract}
 
 \section{Introduction}
 
@@ -77,7 +65,7 @@ increases we have seen during the last three decades in computational
 capabilities have been followed by developments of methods and
 techniques for analyzing and handling large date sets, relying heavily
 on statistics, computer science and mathematics.  The field is rather
-new and developing rapidly. 
+new and developing rapidly. \cite{deiana}
 
 \section{Background and Motivation}
 
@@ -171,7 +159,7 @@ o There is a huge list of areas where technical expertise may be important. But 
 
 
 
-
+\bibliography{References}
 
 
 \end{document}
