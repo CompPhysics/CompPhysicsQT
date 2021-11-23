@@ -54,7 +54,7 @@
 \begin{center}
 {\LARGE\bf
 \begin{spacing}{1.25}
-CompPhysQuantum: Computational Physics and Quantum Technologies  at the University of Oslo
+CompPhysQuantum: A new Bachelor of Science program on Computational Physics and Quantum Technologies  at the Department of Physics, University of Oslo
 \end{spacing}
 }
 \end{center}
@@ -66,7 +66,7 @@ CompPhysQuantum: Computational Physics and Quantum Technologies  at the Universi
 
 \section*{Executive Summary}
 
-We propose to establish, with startup Fall semester 2023, a new bachelor/undergraduate program in Computational Physics and Quantum Technologies  at the University of Oslo. 
+We propose to establish, with startup Fall semester 2023, a new bachelor/undergraduate program in {\bf Computational Physics and Quantum Technologies}  at the University of Oslo. 
 
 \section*{Introduction and Background}
 
@@ -74,6 +74,80 @@ Computational Physics, Computational Science  and Data Science play a central ro
 Computational Physics plays a central role in these developments. At the Department of Physics of the University of Oslo this is reflected in the extremely popular study direction Computational Physics of the master of Science program Computational Science. 
 
 
+Machine learning  is an extremely rich field, in spite of its young age. The
+increases we have seen during the last three decades in computational
+capabilities have been followed by developments of methods and
+techniques for analyzing and handling large date sets, relying heavily
+on statistics, computer science and mathematics.  The field is rather
+new and developing rapidly. 
+
+
+
+!split
+===== Quantum Engineering =====
+
+!bblock Quantum Computing requirements
+o be scalable
+o have qubits that can be entangled
+o have reliable initializations protocols to a standard state
+o have a set of universal quantum gates to control the quantum evolution
+o have a coherence time much longer than the gate operation time
+o have a reliable read-out mechanism for measuring the qubit states
+o and many more 
+!eblock
+
+!split
+===== Candidate systems =====
+o Superconducting Josephon junctions
+o Single photons
+o "Trapped ions and atoms":"https://www.insidequantumtechnology.com/news-archive/ionq-is-first-quantum-startup-to-go-public-will-it-be-first-to-deliver-profits/"
+o Nuclear Magnetic Resonance
+o _Quantum dots, expt at MSU_
+o _Point Defects in semiconductors, experiments at UiO, center for Materials Science_
+o more
+
+
+!split
+===== Courses, Prototype =====
+
+The "Center for Computing in Science Education at UiO":"https://www.mn.uio.no/ccse/english/" could be the entity which provides the pedagogical resourses. It has research experience
+on how do we design curricula so that students develop deep knowledge that is connected and useful.
+
+!bblock Topics  in a Bachelor of Science/Master of Science
+o Information Systems 
+o From Classical Information theory to Quantum Information theory
+o Classical vs. Quantum Logic
+o Classical and Quantum Laboratory 
+o Discipline-Based Quantum Mechanics 
+o Quantum Software
+o Quantum Hardware
+o more
+!eblock
+
+!split
+===== Important Issues to think of =====
+o Lots of conceptual learning: superposition, entanglement, QIS applications, etc.
+o Coding is indispensable. That is why this should be a part of a CS/DS program
+o Teamwork, project management, and communication are important and highly valued
+o Engagement with industry: guest lectures, virtual tours, co-ops, and/or internships.
+o Diversity needs to be a priority
+o Mentorship should begin the moment students enroll.
+
+!split
+===== Observations =====
+
+o Students do not really know what QIS is. This may be important when advertising
+o There is conflation of “Quantum Information Science” with “Quantum computing”.
+o Students perceive that a graduate degree is necessary to work in QIS. A BSc will help.
+
+!split
+===== Future Needs/Problems (US observations mostly but transfer most likely to Europe as well) =====
+
+o There are already (USA) great needs for specialized people (Ph. D. s, postdocs), but also needs of  people with a broad overview of what is possible in QIS.
+o There are not enough potential employees in QIS (USA). It is a supply gap, not a skills gap.
+o A BSc with specialization  is a good place to start
+o It is tremendously important to get everyone speaking the same language. Facility with the vernacular of quantum mechanics is a big plus.
+o There is a huge list of areas where technical expertise may be important. But employers are often more concerned with attributes like project management, working well in a team, interest in the field, and adaptability than in specific technical skills.
 
 
 \section*{Bachelor of Science program in Computational Physics and Quantum Technologies}
@@ -82,54 +156,6 @@ Computational Physics plays a central role in these developments. At the Departm
 
 
 
-
-
-
-
-\paragraph{Mathematics}
-Here we can think of the topics and themes covered by the central  Math courses we have presently.
-30 ECTS in total
-\begin{enumerate}
-\color{red}
-    \item \textcolor{red}{MAT1100}, 1st year
-    \item \textcolor{red}{MAT1110}, 1st year
-    \item \textcolor{red}{MAT1120}, 2nd year
-\end{enumerate}
-
-\paragraph{Programming and system development}
-Here we can think of the topics and themes covered by the existing central programming courses.
-20 ECTS plus 10 elective ECTS (also smaller 5 ECTS modules)
-\begin{enumerate}
-    \item \textcolor{red}{IN1900} 1st year
-    \item \textcolor{red}{IN1910}
-    \item IN3200, High-performance Computing, elective
-\end{enumerate}
-
-\paragraph{Computational Science}
-20 ECTS + 10 ECTS elective (also smaller 5 ECTS modules)
-\begin{enumerate}
-    \item \textcolor{red}{Numerical Methods I} Could be revised version of MAT-INF1100, first year
-    \item \textcolor{red}{Numerical Methods II}, second year, could be MAT3110
-    \item Numerical Methods III, elective,  third year, FYS3150, Computational Physics, third year
-\end{enumerate}
-
-\paragraph{Probability and Statistics}
-20 ECTS + 10 ECTS elective (also smaller 5 ECTS modules). Here we can think of courses tailored to specific disciplines as well. 
-
- In order to understand methods within data science (or perhaps here restricted to data analysis), uncertainty, random variables and probability are important concepts that needs to be learning. For most students these are new concepts that they use time to learn properly. 
-\begin{enumerate}
-    \item \textcolor{red}{Introduction to probability and statistics}, first year, preferable a revised version of STK1100.
-    
-    An introductory course (10 ECTS) should introduce probability theory (including conditional probabilities and Bayes theorem, some common distributions, expectations, variances, covariances), statisitcal inference (the likelihood function, parametric modelling, ML estimation, bias in estimation, confidence intervals Bootrapping, some simple models). In order to make the course attractive for several bachelor programs, the course should include good examples/case studies from substance disciplines.
-    \item \textcolor{red}{Statistical learning and machine learning}, 2nd year, preferable STK2100
-    
-    A second course (10 ECTS) should focus on statistical/machine learning methods, starting with linear models (going a bit in depth on this) and then demonstrating \emph{some} advanced methods (e.g nearest neighbor, neural network). Possibly also examples of unsupervised learning/data mining.
-
-    \item Data Analysis, AI and Statistics III, third year
-    
-    Possible courses here are STK3100 - Generalized linear models,  
-IN3050 – Introduction to Artificial Intelligence and Machine Learning, FYS-STK3155 – Applied Data Analysis and Machine Learning 
-\end{enumerate}
 
 
 
