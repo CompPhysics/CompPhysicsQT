@@ -211,7 +211,7 @@ on how to design curricula so that students develop deep knowledge that is conne
 The figure here, inspired by the QuSTEAM project in the USA URL:"https://qusteam.org"
 shows how one can link educational developments by involving various stakeholders from academia, industry research  laboratories. 
 
-FIGURE: [qusteam.png, width=500 frac=0.6]
+FIGURE: [qusteam.png, width=700 frac=0.7]
 
 
 !split
@@ -233,11 +233,11 @@ o Mentorship should begin the moment students enroll. The experiences with the C
 ===== Societal needs =====
 
 !bblock
-The program aims at addressing future societal needs, such as the  needs for specialized candidates (,Master of SciencePhDs, postdocs), but also the needs of  people with a broad overview of what is possible in  QIS and QT. There are  not enough potential employees in AI, ML, QIS and QT. There is  a clear supply gap.
+The program aims at addressing future societal needs, such as the  needs for specialized candidates (Master of Science, PhDs, postdocs), but also the needs of  people with a broad overview of what is possible in  QIS and QT. There are  not enough potential employees in AI, ML, QIS and QT. There is  a clear supply gap.
 !eblock
 
 !bblock
-A BSc degree  with specialization  is thus a good place to start. Linking this with the Computational Science program and the study directions Computational physics and Computational materials science, will offer our various research fields top candidates as well as pointing to new research directions. 
+A BSc degree  with specialization  is thus a good place to start. Linking this with the Physics MSc  program and the Computational Science program and the study directions Computational physics and Computational materials science, will offer our various research fields top candidates as well as pointing to new research directions. 
 !eblock
 
 
@@ -249,7 +249,7 @@ And what about AI/ML and quantum technologies towards high-school?
 ===== Paths in the BSc program =====
 
 !bblock
-The program has three possible directions
+The program could offer  three possible directions
 o Quantum information systems and quantum technologies
 o Artificial intelligence and machine learning in physics
 o Computational Physics
