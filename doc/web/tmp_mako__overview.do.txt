@@ -10,8 +10,6 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
 
 
 
-The material is produced in various formats for printing and on-screen reading.
-
 
 ======= Slides in various formats =======
 
@@ -25,10 +23,6 @@ The material is produced in various formats for printing and on-screen reading.
  * HTML slides:
    * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper.html"
    * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper-reveal.html"
-   * "Bootstrap style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper-bs.html"
- * iPython notebook:
-   * "ipynb file": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/ipynb/WhitePaper.ipynb"
-
 
 
 ===== Program outline =====
@@ -41,10 +35,6 @@ The material is produced in various formats for printing and on-screen reading.
  * HTML slides:
    * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline.html"
    * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline-reveal.html"
-   * "Bootstrap style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline-bs.html"
- * iPython notebook:
-   * "ipynb file": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/ipynb/ProgramOutline.ipynb"
-
 
 
 

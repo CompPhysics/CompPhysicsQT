@@ -21,16 +21,10 @@ chapters = {
  * HTML slides:
    * "Plain html style": "${pub_url}/${name}/html/${name}.html"
    * "reveal.js beige slide style": "${pub_url}/${name}/html/${name}-reveal.html"
-   * "Bootstrap style": "${pub_url}/${name}/html/${name}-bs.html"
- * iPython notebook:
-   * "ipynb file": "${pub_url}/${name}/ipynb/${name}.ipynb"
-
 </%def>
 
 <%def name="slide_types(name)">
 </%def>
-
-The material is produced in various formats for printing and on-screen reading.
 
 
 ======= Slides in various formats =======
