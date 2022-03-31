@@ -31,10 +31,10 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
 
  * LaTeX PDF:
    * For printing:
-     * "Standard one-page format": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/pdf/ProgramOutline.pdf"
+     * "Standard one-page format": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/pdf/program.pdf"
  * HTML slides:
-   * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline.html"
-   * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline-reveal.html"
+   * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/html/program.html"
+   * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/html/program-reveal.html"
 
 
 
