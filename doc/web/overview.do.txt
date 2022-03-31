@@ -9,7 +9,7 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
 # #endif
 
 <%
-pub_url = ' https://compphysics.github.io/CompPhysicsQT/doc/pub'
+pub_url = 'https://compphysics.github.io/CompPhysicsQT/doc/pub'
 published = ['WhitePaper', 'ProgramOutline',]
 chapters = {
  'WhitePaper': ', Description and longer write-up',

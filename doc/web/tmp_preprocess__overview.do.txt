@@ -3,7 +3,7 @@ TITLE: Slides and various material for a new program on Computational Physics an
 AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
 
 <%
-pub_url = ' https://compphysics.github.io/CompPhysicsQT/doc/pub'
+pub_url = 'https://compphysics.github.io/CompPhysicsQT/doc/pub'
 published = ['WhitePaper', 'ProgramOutline',]
 chapters = {
  'WhitePaper': ', Description and longer write-up',
