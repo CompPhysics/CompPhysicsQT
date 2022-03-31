@@ -277,7 +277,8 @@ o Quantum hardware, needs to be established, this can be organized together with
 o Quantum computing and quantum machine learning, FYS3446/FYS4446 (cloned course, already developed by CCSE)
 o Advanced machine learning and data analysis for the physical sciences, FYS3447/FYS4447 (already developed by CCSE)
 The last three courses are elective ones for the last semester of study. Some of these courses can also be split into modules a 5 ECTS or 7.5 ECTS.
-The first year is identical with the BSc program Physics and Astronomy.
+There are obviously other course alternatives. 
+The first year is identical with the BSc program _Physics and Astronomy_.
 !eblock
 
 
@@ -395,7 +396,9 @@ thesis work at research institutions abroad.
 !split
 ===== The many questions and how do we proceed =====
 
-o Do we need a new BSc program in Physics? Could these educational paths be defined as study directions under the Physics programs?
+!bblock
+o Do we need a new BSc program in Physics? Could these educational paths be defined as study directions under the Physics program?
 o Potential, Strengths, possibilities and weaknesses of such a program
 o A possible path, if there is interest in this is:
-  * The education committee of the department of Physics (studie og undervisningsutvalget) initiates the process by establishing a working group with the mandate to explore these possibilities, not later than May/June 2022 with the aim to have a final report by October 2022..
+  * The education committee of the department of Physics (studie og undervisningsutvalget) initiates the process by establishing a working group with the mandate to explore these possibilities, not later than May/June 2022 with the aim to have a final report by October 2022.
+!eblock
