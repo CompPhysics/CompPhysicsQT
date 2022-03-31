@@ -1,52 +1,23 @@
-TITLE: Master program in Computational Science  at the University of Oslo
-AUTHOR: Tom Andersen at Department of Biosciences, University of Oslo
-AUTHOR: Andreas Austeng at Department of Informatics, University of Oslo
-AUTHOR: Arne Bang Huseby at Department of Mathematics, University of Oslo
-AUTHOR: John Burkart at Department of Geoscience, University of Oslo
-AUTHOR: Michele Cascella at Department of Chemistry, University of Oslo
-AUTHOR: Mats Carlsson  at Institute for Theoretical Astrophysics, University of Oslo
-AUTHOR: Geir Dahl at Department of Mathematics, University of Oslo
-AUTHOR: Simon Wolfgang Funke at Department of Informatics, University of Oslo & Simula Research Laboratory
-AUTHOR: Marianne Fyhn at Department of Biosciences, University of Oslo
-AUTHOR: Viggo Hansteen  at Institute for Theoretical Astrophysics, University of Oslo
-AUTHOR: Morten Hjorth-Jensen (chair) at Department of Physics, University of Oslo
-AUTHOR: Joseph  Lacasce at Department of Geoscience, University of Oslo
-AUTHOR: Katrine Langvad (admin) at Department of Physics, University of Oslo
-AUTHOR: Anders Malthe-Sørenssen at Department of Physics, University of Oslo
-AUTHOR: Kend-Andre Mardal at Department of Mathematics, University of Oslo
-AUTHOR: Martin Reimers at Department of Mathematics, University of Oslo
-AUTHOR: Knut Mørken at Department of Mathematics, University of Oslo
-AUTHOR: Torbjørn Rognes at Department of Informatics, University of Oslo
-AUTHOR: Thomas Schuler at Department of Geoscience, University of Oslo
-AUTHOR: Grete Stavik-Døvle (admin) at Department of Physics, University of Oslo
-AUTHOR: Joakim Sundnes at Department of Informatics, University of Oslo & Simula Research Laboratory
+TITLE: Bachelor of Science program in Computational Physics and Quantum Technologies  at the University of Oslo
+AUTHOR: Morten Hjorth-Jensen and Anders Malthe-Sørenssen  at Department of Physics, University of Oslo
 
-DATE: Planned start: Fall 2018
+DATE: Planned start: Fall 2024 (?)
 
 
 !split
-===== Master program in Computational Science =====
+===== Bachelor of Science program in Computational Physics and Quantum Technologies  at the University of Oslo  =====
 !bblock
-We propose a new Master of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Science_, with acronym  _CS_
+We propose a new Bachelor of Science program at the Faculty of Mathematics and Natural Sciences of the University of Oslo. This program is called  _Computational Physics and Quantum Technologies_, with acronym  _CPQT_
 
 
-The program is a collaboration between seven departments and classical disciplines:
+Possible collaboration with:
  
- * Institute of Theoretical Astrophysics
- * Department of Biosciences
  * Department of Chemistry
- * Department of Geoscience
  * Department of Informatics
  * Department of Mathematics
  * Department of Physics
 
 The program will be administrated by the Department of Physics.
-
-The program is multidisciplinary and all students who have completed
-undergraduate studies in science and engineering, with a sufficient
-quantitative background, are eligible.  The language of instruction is
-Norwegian or English.
-
 
 
 !eblock
@@ -54,29 +25,14 @@ Norwegian or English.
 !split
 ===== Strategic importance =====
 
-The program will educate the next generation of cross-disciplinary
-science students with the knowledge, skills, and values needed to pose
-and solve current and new scientific, technological and societal
-challenges. The program will lay the foundation for cross-disciplinary
-educational, research and innovation activities.
 
-It is the first educational program to
-comprehensively treat computation as the *triple junction* of
-algorithm development and analysis, high performance computing, and
-applications to scientific and engineering modeling and data
-science. This approach recognizes computation as a new discipline
-rather than being decentralized into isolated sub-disciplines. The CS program
-will  will enable application-driven computational modeling
-while also exposing disciplinary computational scientists to
-advanced tools and techniques, which will ignite new
-transformational connections in research and education.
 
 
 FIGURE: [figslides/cs.jpg, width=500 frac=0.6] 
 
 
 !split
-===== Vision for the future: Scientific Computing and Data Science =====
+===== Vision for the future: =====
 
 Scientific computing focuses on the development of predictive computer
 models of the world around us. As study of physical phenomena through
@@ -101,32 +57,6 @@ model would identify the most effective treatment for that patient.
 
 !split
 ===== Aims of the program =====
-
-
-A specific aim of this program is to develop the students' ability to pose and
-solve problems that combine physical insights with mathematical tools
-and computational skills. This provides a unique combination
-of applied and theoretical knowledge and skills. These features are invaluable
-for the development of multi-disciplinary educational and research programs.
-The main focus is not to educate computer
-specialists, but to educate students with a solid understanding in basic science
-as well as an integrated knowledge on how  to use
-essential methods from computational science. This requires an
-education that covers both the specific disciplines like physics, biology,
-geoscience, mathematics etc with a strong background in computational science.
-
-
-A significant aspect of this program is the ability to offer new educational
-opportunities that are aligned with the needs of a 21st century
-workforce. Many companies are seeking
-individuals who have knowledge of both a specific discipline and
-computational modeling.
-
-We plan to offer first Master of Science degrees in Computational Science
-and  our students will be expressly educated in the use of
-computing to model and study the world around them. Students in the CS
-program will achieve a high degree of proficiency in model
-development, critical thinking and analysis.
 
 
 
@@ -200,90 +130,8 @@ computational science programs.
 
 
 
-!split
-===== Computing competence =====
-!bblock
-Computing means solving scientific problems using computers. It covers
-numerical as well as symbolic computing. Computing is also about
-developing an understanding of the scientific process by enhancing
-algorithmic thinking when solving problems.  Computing competence has
-always been a central part of the science and engineering
-education.
-
-Modern computing competence is about
-
-* derivation, verification, and implementation of algorithms
-* understanding what can go wrong with algorithms
-* overview of important, known algorithms
-* understanding how algorithms are used to solve mathematical problems
-* reproducible science and ethics
-* algorithmic thinking for gaining deeper insights about scientific problems
-!eblock
-
-!split
-===== Key elements in computing competence =====
-!bblock
-The power of the scientific method lies in identifying a given problem
-as a special case of an abstract class of problems, identifying
-general solution methods for this class of problems, and applying a
-general method to the specific problem (applying means, in the case of
-computing, calculations by pen and paper, symbolic computing, or
-numerical computing by ready-made and/or self-written software). This
-generic view on problems and methods is particularly important for
-understanding how to apply available, generic software to solve a
-particular problem.
 
 
-Computing competence represents a central element
-in scientific problem solving, from basic education and research to
-essentially almost all advanced problems in modern
-societies. Computing competence is simply central to further
-progress. It enlarges the body of tools available to students and
-scientists beyond classical tools and allows for a more generic
-handling of problems. Focusing on algorithmic aspects results in
-deeper insights about scientific problems.
-
-Today's projects in science and industry tend to involve larger teams. Tools for reliable collaboration must therefore be mastered (e.g., version control systems, automated computer experiments for reproducibility, software and method documentation).
-!eblock
-
-!split
-===== Overarching description of the CS program  =====
-!bblock
-Students of this program learn to use the computer as a laboratory for
-solving problems in science and engineering. The program offers
-exciting thesis projects from many disciplines: biology and life
-science, chemistry, mathematics, informatics, physics, geophysics,
-mechanics, geology, computational finance, computational informatics, b
-ig data analysis, digital signal processing
-and image analysis – the candidates select research field according to
-their interests.
-
-A Master’s degree from this program gives the candidate a methodical
-training in planning, conducting, and reporting large research
-projects, often together with other students and university teachers.
-THe projects emphasize finding practical solutions, developing an
-intuitive understanding of the science and the scientific methods
-needed to solve complicated problems, use of many tools, and not least
-developing own creativity and independent thinking. The thesis
-work is a scientific project where the candidates learn to tackle a
-scientific problem in a professional manner.   The program aims also at
-developing a deep understanding of the role of computing in solving modern scientific
-problems. A candidate from this program gains  deep insights in the fundamnetal role
-computations play  in our advancement of science and technology, as well as the role computations play  in society.
-
-!eblock
-
-!split
-===== The program opens up for flexible backgrounds  =====
-
-!bblock
-While discipline-based master's programs tend to introduce very strict
-requirements to courses, we believe in adapting a computational thesis
-topic to the student's background, thereby opening up for
-students with a wide range of bachelor's degrees.
-A very heterogeneous student community is thought to be a strength and
-unique feature of this program.
-!eblock
 
 
 
