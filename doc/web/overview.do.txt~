@@ -1,0 +1,51 @@
+# Strange way of testing for vortex...
+# #ifdef NON_VORTEX
+TITLE: bla bla
+
+TOC: off
+# #else
+TITLE: Slides and various material for a new program on Computational Physics and Quantum Technologies
+AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
+# #endif
+
+<%
+pub_url = 'http://computationalscienceuio.github.io/CCAD/doc/pub'
+published = ['WhitePaper', 'ProgramOutline',]
+chapters = {
+ 'WhitePaper': ', Description and longer write-up',
+ 'ProgramOutline': 'Program outline',
+}
+%>
+
+
+
+<%def name="text_types(name)">
+
+ * LaTeX PDF:
+   * For printing:
+     * "Standard one-page format": "${pub_url}/${name}/pdf/${name}.pdf"
+ * HTML slides:
+   * "Plain html style": "${pub_url}/${name}/html/${name}.html"
+   * "reveal.js beige slide style": "${pub_url}/${name}/html/${name}-reveal.html"
+   * "Bootstrap style": "${pub_url}/${name}/html/${name}-bs.html"
+ * iPython notebook:
+   * "ipynb file": "${pub_url}/${name}/ipynb/${name}.ipynb"
+
+</%def>
+
+<%def name="slide_types(name)">
+</%def>
+
+The material is produced in various formats for printing and on-screen reading.
+
+
+======= Slides in various formats =======
+
+% for ch in published:
+===== ${chapters[ch]} =====
+
+${text_types(ch)}
+
+% endfor
+
+

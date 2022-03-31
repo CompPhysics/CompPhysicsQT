@@ -1,0 +1,51 @@
+# Strange way of testing for vortex...
+TITLE: Slides and various material for a new program on Computational Physics and Quantum Technologies
+AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
+
+
+
+
+
+
+
+
+
+The material is produced in various formats for printing and on-screen reading.
+
+
+======= Slides in various formats =======
+
+===== , Description and longer write-up =====
+
+
+
+ * LaTeX PDF:
+   * For printing:
+     * "Standard one-page format": " https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/pdf/WhitePaper.pdf"
+ * HTML slides:
+   * "Plain html style": " https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper.html"
+   * "reveal.js beige slide style": " https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper-reveal.html"
+   * "Bootstrap style": " https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper-bs.html"
+ * iPython notebook:
+   * "ipynb file": " https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/ipynb/WhitePaper.ipynb"
+
+
+
+===== Program outline =====
+
+
+
+ * LaTeX PDF:
+   * For printing:
+     * "Standard one-page format": " https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/pdf/ProgramOutline.pdf"
+ * HTML slides:
+   * "Plain html style": " https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline.html"
+   * "reveal.js beige slide style": " https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline-reveal.html"
+   * "Bootstrap style": " https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/html/ProgramOutline-bs.html"
+ * iPython notebook:
+   * "ipynb file": " https://compphysics.github.io/CompPhysicsQT/doc/pub/ProgramOutline/ipynb/ProgramOutline.ipynb"
+
+
+
+
+
