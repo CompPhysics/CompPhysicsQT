@@ -22,7 +22,7 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
      * "Standard one-page format": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/pdf/whitepaper.pdf"
  * HTML slides:
    * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/html/whitepaper.html"
-   * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/html/whitepaper-reveal.html"
+   * "bs slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/html/whitepaper-bs.html"
 
 
 ===== Program outline =====
@@ -34,7 +34,7 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
      * "Standard one-page format": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/pdf/program.pdf"
  * HTML slides:
    * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/html/program.html"
-   * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/html/program-reveal.html"
+   * "bs slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/program/html/program-bs.html"
 
 
 

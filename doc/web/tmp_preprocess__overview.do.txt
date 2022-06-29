@@ -20,7 +20,7 @@ chapters = {
      * "Standard one-page format": "${pub_url}/${name}/pdf/${name}.pdf"
  * HTML slides:
    * "Plain html style": "${pub_url}/${name}/html/${name}.html"
-   * "reveal.js beige slide style": "${pub_url}/${name}/html/${name}-reveal.html"
+   * "bs slide style": "${pub_url}/${name}/html/${name}-bs.html"
 </%def>
 
 <%def name="slide_types(name)">
