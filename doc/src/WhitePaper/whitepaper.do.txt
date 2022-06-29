@@ -143,7 +143,7 @@ Oslo Metropolitan university  has recently acquired two quantum quantum computer
 
 
 o  "University of Copenhagen":"https://www.math.ku.dk/english/about/news/quantum-information-science-programme/"
-o "EPFL Lausanne":https://thequantumhubs.com/epfl-offers-a-new-master-in-quantum-science-and-engineering/"
+o "EPFL Lausanne":"https://thequantumhubs.com/epfl-offers-a-new-master-in-quantum-science-and-engineering/"
 o "University of Barcelona":"https://quantummasterbarcelona.eu/"
 o "ETH Zurich":"https://master-qe.ethz.ch/"
 o "Quantum Technology Open Master":"https://qtom.qtedu.eu/"
