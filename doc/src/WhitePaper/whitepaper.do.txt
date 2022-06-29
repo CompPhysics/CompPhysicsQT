@@ -151,7 +151,9 @@ o "University of Barcelona":"https://quantummasterbarcelona.eu/"
 o "ETH Zurich":"https://master-qe.ethz.ch/"
 o "Quantum Technology Open Master":"https://qtom.qtedu.eu/"
 o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/"
+o "Educational programs of EU's QC flagship":"https://qt.eu/app/uploads/2021/09/CompetenceFrameworkQuantumTechnologiesV1.pdf"
 
+And "potential projects with industry":"https://newsroom.ibm.com/2019-12-19-IBM-and-the-University-of-Tokyo-Launch-Quantum-Computing-Initiative-for-Japan".
 
 ===== More on motivation =====
 
