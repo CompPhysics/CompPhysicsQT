@@ -142,7 +142,8 @@ o "EPFL Lausanne":"https://thequantumhubs.com/epfl-offers-a-new-master-in-quantu
 o "University of Barcelona":"https://quantummasterbarcelona.eu/"
 o "ETH Zurich":"https://master-qe.ethz.ch/"
 o "Quantum Technology Open Master":"https://qtom.qtedu.eu/"
-o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/", see also URL":"https://op.europa.eu/en/publication-detail/-/publication/93ecfd3c-2005-11ec-bd8e-01aa75ed71a1/language-en", URL":"https://www.eucor-uni.org/en/qustec/", and URL":"https://cordis.europa.eu/project/id/951787".
+o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/", see also
+URL":"https://op.europa.eu/en/publication-detail/-/publication/93ecfd3c-2005-11ec-bd8e-01aa75ed71a1/language-en", URL":"https://www.eucor-uni.org/en/qustec/", and URL":"https://cordis.europa.eu/project/id/951787".
 
 
 
