@@ -4,7 +4,7 @@ AUTHOR: Morten Hjorth-Jensen and Anders Malthe-Sørenssen  at Department of Phys
 DATE: Planned start: Fall 2024 (?)
 
 
-!split
+
 ===== Bachelor of Science program in Computational Physics and Quantum Technologies =====
 
 !bblock
@@ -24,10 +24,10 @@ _CPQT_. Tentative start fall semester 2024.
 The program will be administrated by the Department of Physics. 
 !eblock
 
-!split
+
 ===== Strategic importance =====
 
-!bblock
+
 Computational physics, computational science and data science play a
 central role in scientific investigations and are central to
 innovation in most domains of our lives. These fields underpin the
@@ -40,27 +40,15 @@ technologies and quantum information systems (QIS) together with
 artificial intelligence (AI) and machine learning (ML) are expected to
 play a significant role in technology developments and innovations,
 and for fundamental discoveries in physics.
-!eblock
+
+=== AI and machine learning  ===
 
 
-
-
-
-!split
-===== AI and machine learning  =====
-
-
-!bblock
 Artificial
 intelligence is built upon integrated machine learning algorithms,
 which in turn are fundamentally rooted in optimization and statistical
 learning.
-!eblock
 
-!split
-===== AI and ML in Physics =====
-
-!bblock
 Artificial intelligence (AI) and Machine learning (ML)  techniques
 have in the last years gained considerable traction in
 scientific discovery. In particular, applications and techniques for
@@ -70,14 +58,9 @@ enhancing scientific discoveries in many different disciplines.
 These developments cover a broad mix of rapidly
 evolving fields, from the development of ML techniques to computer and
 hardware architectures.
-!eblock
-
-!split
-===== Physics based Machine Learning =====
 
 An important and emerging field is what has been dubbed as scientific ML, see the article by Deiana et al "Applications and Techniques for Fast Machine Learning in Science, arXiv:2110.13041":"https://arxiv.org/abs/2110.13041"
 
-!bblock
 The authors discuss applications and techniques for fast machine
 learning (ML) in science -- the concept of integrating power ML
 methods into the real-time experimental data processing loop to
@@ -87,13 +70,7 @@ o applications for fast ML across a number of scientific domains;
 o techniques for training and implementing performant and resource-efficient ML algorithms;
 o and computing architectures, platforms, and technologies for deploying these algorithms.
 
-!eblock
 
-
-!split
-===== Many new research directions =====
-
-!bblock
 For our research in for example particle and
 nuclear physics, fields which cover a huge range of energy and length scales,
 spanning from our smallest constituents to the physics of dense
@@ -103,7 +80,6 @@ about the physics of atomic nuclei, elementary particles and dense
 matter. Similarly, ML algorithms are widely applied in condensed
 matter physics, materials science and nanotechnology, in molecular dynamics simulations of complex
 systems in neuroscience and in many other fields in natural science.
-!eblock
 
 !bblock Examples of applications in subatomic physics
 * _Artificial Intelligence and Machine Learning in Nuclear Physics_, Amber Boehnlein et al., "arXiv:2112.02309":"https://arxiv.org/abs/2112.02309" and Reviews of Modern Physics, 2022, in press
@@ -114,10 +90,9 @@ systems in neuroscience and in many other fields in natural science.
 !eblock
 
 
-!split
-===== Quantum Information Technologies (QIT) =====
 
-!bblock
+=== Quantum Information Technologies (QIT) ===
+
 Recent developments in quantum information systems
 and technologies offer the possibility to address some of the most
 challenging large-scale problems, whether they are represented by
@@ -130,13 +105,7 @@ since the initial work in this area and with recent developments in
 quantum computing hardware there is an additional drive to identify
 early practical problems on which these devices might demonstrate an
 advantage.
-!eblock
 
-
-!split
-===== More on QIT =====
-
-!bblock
 In addition to theoretical activities conducted at the
 Department of Physics (mainly at the Center for Computing in Science
 Education (CCSE) and the condensed matter group and other groups), there is a growing
@@ -149,16 +118,17 @@ theoretical and experimental background needed for the 21st
 century. There is also a great interest in candidates with such a
 background, knowledge, skills and competences in industry and the
 public sector.
-!eblock
 
-!split
-===== Why such a program? =====
+=== Why such a program? ===
 
-!bblock
-Establishing such an educational program will be
-unique in Norway and has the potential to attract excellent students.
-The popularity of the Computational Science and in particular the Computational Physics and Computational Materials Science study direction are clear indicattors that these are fields with the potential to attract new students.
-!eblock
+
+Establishing such an educational program will be unique in Norway and
+has the potential to attract excellent students.  The popularity of
+the Computational Science and in particular the Computational Physics
+and Computational Materials Science study direction are clear
+indicattors that these are fields with the potential to attract new
+students.
+
 
 
 !bblock
@@ -166,9 +136,21 @@ Furthermore,
 Oslo Metropolitan university  has recently acquired two quantum quantum computers, see URL:"https://kommunikasjon.ntb.no/pressemelding/oslomet-avduker-norges-forste-kvantedatamaskin?publisherId=15678779&releaseId=17917781" and is now establishing research and educational initiatives in quantum information systems. There are thus several interesting avenues for joint collaborations in quantum information systems and quantum technologies as well as developing joint educational programs.
 !eblock
 
-
-
 !split
+===== Links of interest to other (mainly MSc and PhD level) programs  =====
+
+"List over top 20 Quantum Computing Masters and  Ph.D. Programs in 2022":"https://thequantuminsider.com/2022/06/06/top-20-quantum-computing-masters-ph-d-programs-in-2022/"
+
+
+o  "University of Copenhagen":"https://www.math.ku.dk/english/about/news/quantum-information-science-programme/"
+o "EPFL Lausanne":https://thequantumhubs.com/epfl-offers-a-new-master-in-quantum-science-and-engineering/"
+o "University of Barcelona":"https://quantummasterbarcelona.eu/"
+o "ETH Zurich":"https://master-qe.ethz.ch/"
+o "Quantum Technology Open Master":"https://qtom.qtedu.eu/"
+o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/", see also URL:"https://op.europa.eu/en/publication-detail/-/publication/93ecfd3c-2005-11ec-bd8e-01aa75ed71a1/language-en", URL":"https://www.eucor-uni.org/en/qustec/", URL":"https://cordis.europa.eu/programme/id/H2020_FETFLAG-07-2020", URL":"https://cordis.europa.eu/project/id/951787".
+
+
+
 ===== More on motivation =====
 
 Computational physics plays a central role in the above mentioned
@@ -190,7 +172,7 @@ in the fields of nanotechnology and materials science, with the
 possibilities to develop new experimental activities.
 
 
-!split
+
 ===== Rationale  =====
 
 !bblock
@@ -201,12 +183,13 @@ o Candidates with such a background will be of great importance for new scientif
 !eblock
 
 
-!split
 ===== Structure of Program and Courses =====
 
-In developing such a program 
-the Center for Computing in Science Education (CCSE) at the university of Oslo (UiO) could be the entity which provides the pedagogical research resources. It has the needed research experience
-on how to design curricula so that students develop deep knowledge that is connected and useful.
+In developing such a program the Center for Computing in Science
+Education (CCSE) at the university of Oslo (UiO) could be the entity
+which provides the pedagogical research resources. It has the needed
+research experience on how to design curricula so that students
+develop deep knowledge that is connected and useful.
 
 The figure here, inspired by the QuSTEAM project in the USA URL:"https://qusteam.org"
 shows how one can link educational developments by involving various stakeholders from academia, industry research  laboratories. 
@@ -214,8 +197,8 @@ shows how one can link educational developments by involving various stakeholder
 FIGURE: [qusteam.png, width=700 frac=0.7]
 
 
-!split
-===== Using recent advances in pedagogical research and defining potentially new research directions in education rsearch =====
+
+=== Using recent advances in pedagogical research and defining potentially new research directions in education rsearch ===
 
 The reason why we believe the CCSE should be involved in planning this BSc program is that it has the necessary expertise to address several issues, such as
 
@@ -229,7 +212,7 @@ o Experience with engagement with industry, public sector and priority to divers
 o Mentorship should begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value, as the activities of the KURT center.
 !eblock
 
-!split
+
 ===== Societal needs =====
 
 !bblock
@@ -241,12 +224,9 @@ A BSc degree  with specialization  is thus a good place to start. Linking this w
 !eblock
 
 
-!bblock
-And what about AI/ML and quantum technologies towards high-school?
-!eblock
 
-!split
-===== Paths in the BSc program =====
+
+===== Study specializations in the BSc program =====
 
 !bblock
 The program could offer  three possible directions
@@ -260,12 +240,21 @@ The students specialize in these directions in their last year of the BSc progra
 
 
 
-!split
-===== Structure and courses  =====
-!bblock
-There are several existing courses which can be included in this program. There are also courses which need to be established. At the CCSE we have the research and educational expertise to establish two to three new courses in these directions. Most likely there are potential teachers from other groups.
 
-A separate application for establishing these courses follows. The additional courses we propose are (these are suggestions and codes are tentative) listed here. Note that we propose these courses as cloned courses. We may consider extensions of these codes in order to offer PhD variants as well.
+===== Structure and courses  =====
+
+
+There are several existing courses which can be included in this
+program. There are also courses which need to be established. At the
+CCSE we have the research and educational expertise to establish two
+to three new courses in these directions. Most likely there are
+potential teachers from other groups.
+
+A separate application for establishing these courses follows. The
+additional courses we propose are (these are suggestions and codes are
+tentative) listed here. Note that we propose these courses as cloned
+courses. We may consider extensions of these codes in order to offer
+PhD variants as well.
 
 
 The list here is tentative. Two of the courses, FYS4446 and FYS4447 have been taught as special topics since 2018 and we have already a large body of material.
@@ -279,12 +268,7 @@ o Advanced machine learning and data analysis for the physical sciences, FYS3447
 The last three courses are elective ones for the last semester of study. Some of these courses can also be split into modules a 5 ECTS or 7.5 ECTS.
 There are obviously other course alternatives. 
 The first year is identical with the BSc program _Physics and Astronomy_.
-!eblock
 
-
-!split
-===== Structure and courses =====
-!bblock
 The table here is an example of a suggested path for a Master of Science project,
 with course work the first year and thesis work the last year.
 
@@ -304,9 +288,8 @@ with course work the first year and thesis work the last year.
 | 1st semester      | MAT1100      | IN1900    | FYS11XX   |
 |--------------------------------------------------------------------------------|
 
-!eblock
 
-!split 
+
 =====  Description of Study directions =====
 
 The basic structure of the study directions could be
@@ -322,7 +305,7 @@ The basic structure of the study directions could be
 What follows are text proposals for these items.
 
 
-!split
+
 ===== Description of learning outcomes =====
 
 The power of the scientific method lies in identifying a given problem
@@ -348,10 +331,10 @@ deeper insights about scientific problems.
 The learning outcomes are subdivided in three general categories, knowledge, skills and general competence.
 
 
-!split
+
 ===== Study abroad and international collaborators =====
 
-!bblock
+
 
 Students at the University of Oslo may choose to take parts of
 their degrees at a university abroad.
@@ -362,12 +345,10 @@ collaborations with other researchers worldwide. These exchange
 possibility range from top universities in the USA, Asia and Europe as
 well as leading National Laboratories in the USA.
 
-!eblock
 
-!split
 ===== Career prospects =====
 
-!bblock
+
 Candidates who are capable of modeling and understanding complicated
 systems in natural science, are in short supply in society.  The
 computational methods and approaches to scientific problems students learn
@@ -387,25 +368,11 @@ The program has also a strong international element which allows students to
 gain important experience from international collaborations in
 science, with the opportunity to spend parts of the time spent on
 thesis work at research institutions abroad.
-!eblock
 
 
 
 
 
-!split
-===== The many questions and how do we proceed =====
-
-!bblock
-o Do we need a new BSc program in Physics? Could these educational paths be defined as study directions under the Physics program?
-o Potential, Strengths, possibilities and weaknesses of such a program
-o A possible path, if there is interest in this is:
-  * The education committee of the department of Physics (studie og undervisningsutvalget) initiates the process by establishing a working group with the mandate to explore these possibilities, not later than May/June 2022 with the aim to have a final report by October 2022.
-!eblock
 
 
-!split
-===== Other places =====
 
-
-https://www.math.ku.dk/english/about/news/quantum-information-science-programme/
