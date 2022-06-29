@@ -19,10 +19,10 @@ AUTHOR: Morten Hjorth-Jensen  Email:mhjensen@uio.no
 
  * LaTeX PDF:
    * For printing:
-     * "Standard one-page format": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/pdf/WhitePaper.pdf"
+     * "Standard one-page format": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/pdf/whitepaper.pdf"
  * HTML slides:
-   * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper.html"
-   * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/WhitePaper/html/WhitePaper-reveal.html"
+   * "Plain html style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/html/whitepaper.html"
+   * "reveal.js beige slide style": "https://compphysics.github.io/CompPhysicsQT/doc/pub/whitepaper/html/whitepaper-reveal.html"
 
 
 ===== Program outline =====
