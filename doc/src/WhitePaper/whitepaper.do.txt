@@ -7,22 +7,21 @@ DATE: Planned start: Fall 2024 (?)
 
 ===== Bachelor of Science program in Computational Physics and Quantum Technologies =====
 
-!bblock
+
 We would like to propose a new Bachelor of Science program at the
 Department of Physics of the University of Oslo. This program is
 called _Computational Physics and Quantum Technologies_, with acronym
 _CPQT_. Tentative start fall semester 2024.
-!eblock
-
-
-!bblock Possible collaboration with:
- 
- * Department of Chemistry
- * Department of Informatics
- * Department of Mathematics
-
 The program will be administrated by the Department of Physics. 
-!eblock
+
+Possible collaborations with:
+ 
+* Department of Chemistry
+* Department of Informatics
+* Department of Mathematics
+
+
+
 
 
 ===== Strategic importance =====
@@ -81,14 +80,12 @@ matter. Similarly, ML algorithms are widely applied in condensed
 matter physics, materials science and nanotechnology, in molecular dynamics simulations of complex
 systems in neuroscience and in many other fields in natural science.
 
-!bblock Examples of applications in subatomic physics
-* _Artificial Intelligence and Machine Learning in Nuclear Physics_, Amber Boehnlein et al., "arXiv:2112.02309":"https://arxiv.org/abs/2112.02309" and Reviews of Modern Physics, 2022, in press
-* _Predicting Solid State Material Platforms for Quantum Technologies_, Hebnes et al,. "arXiv:2203.16203":"https://arxiv.org/abs/2203.16203"
-* "Mehta et al.":"https://arxiv.org/abs/1803.08823" and "Physics Reports (2019)":"https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub".
-* "Machine Learning and the Physical Sciences by Carleo et al":"https://link.aps.org/doi/10.1103/RevModPhys.91.045002"
-* "Particle Data Group summary on ML methods":"https://pdg.lbl.gov/2021/reviews/rpp2021-rev-machine-learning.pdf"
-!eblock
-
+Examples of applications in subatomic physics
+o _Artificial Intelligence and Machine Learning in Nuclear Physics_, Amber Boehnlein et al., "arXiv:2112.02309":"https://arxiv.org/abs/2112.02309" and Reviews of Modern Physics, 2022, in press
+o _Predicting Solid State Material Platforms for Quantum Technologies_, Hebnes et al,. "arXiv:2203.16203":"https://arxiv.org/abs/2203.16203"
+o "Mehta et al.":"https://arxiv.org/abs/1803.08823" and "Physics Reports (2019)":"https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub".
+o "Machine Learning and the Physical Sciences by Carleo et al":"https://link.aps.org/doi/10.1103/RevModPhys.91.045002"
+o "Particle Data Group summary on ML methods":"https://pdg.lbl.gov/2021/reviews/rpp2021-rev-machine-learning.pdf"
 
 
 === Quantum Information Technologies (QIT) ===
@@ -131,23 +128,21 @@ students.
 
 
 
-!bblock
 Furthermore,
 Oslo Metropolitan university  has recently acquired two quantum quantum computers, see URL:"https://kommunikasjon.ntb.no/pressemelding/oslomet-avduker-norges-forste-kvantedatamaskin?publisherId=15678779&releaseId=17917781" and is now establishing research and educational initiatives in quantum information systems. There are thus several interesting avenues for joint collaborations in quantum information systems and quantum technologies as well as developing joint educational programs.
-!eblock
 
 !split
 ===== Links of interest to other (mainly MSc and PhD level) programs  =====
 
-"List over top 20 Quantum Computing Masters and  Ph.D. Programs in 2022":"https://thequantuminsider.com/2022/06/06/top-20-quantum-computing-masters-ph-d-programs-in-2022/"
+"List over top 20 quantum computing graduate programs (master of science and PhD programs) in 2022":"https://thequantuminsider.com/2022/06/06/top-20-quantum-computing-masters-ph-d-programs-in-2022/"
 
 
-o  "University of Copenhagen":"https://www.math.ku.dk/english/about/news/quantum-information-science-programme/"
+o "University of Copenhagen":"https://www.math.ku.dk/english/about/news/quantum-information-science-programme/"
 o "EPFL Lausanne":"https://thequantumhubs.com/epfl-offers-a-new-master-in-quantum-science-and-engineering/"
 o "University of Barcelona":"https://quantummasterbarcelona.eu/"
 o "ETH Zurich":"https://master-qe.ethz.ch/"
 o "Quantum Technology Open Master":"https://qtom.qtedu.eu/"
-o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/", see also URL:"https://op.europa.eu/en/publication-detail/-/publication/93ecfd3c-2005-11ec-bd8e-01aa75ed71a1/language-en", URL":"https://www.eucor-uni.org/en/qustec/", URL":"https://cordis.europa.eu/programme/id/H2020_FETFLAG-07-2020", URL":"https://cordis.europa.eu/project/id/951787".
+o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/", see also URL":"https://op.europa.eu/en/publication-detail/-/publication/93ecfd3c-2005-11ec-bd8e-01aa75ed71a1/language-en", URL":"https://www.eucor-uni.org/en/qustec/", and URL":"https://cordis.europa.eu/project/id/951787".
 
 
 
@@ -175,12 +170,10 @@ possibilities to develop new experimental activities.
 
 ===== Rationale  =====
 
-!bblock
 The rationale behind proposing a new bachelor of science (BSc) program in computational physics and quantum technologies (QT) is:
 o To attract at an earlier stage new students with an explicit interest in QIS, QT and AI and ML in physics. 
 o To enhance the recruitment to fields in physics which are in high demand for students and candidates with an expertise in computations, QIS, QT, AI and ML. We expect high demands from both the private sector and the public sector for candidates with these competences, insights and skills.
 o Candidates with such a background will be of great importance for new scientific discoveries and technological innovations. At the department of physics of the university of Oslo there are several research directions whose scientific activities will benefit at large from candidates with such a background, spanning from fast ML for new discoveries to the development of QTs.   
-!eblock
 
 
 ===== Structure of Program and Courses =====
@@ -196,13 +189,8 @@ shows how one can link educational developments by involving various stakeholder
 
 FIGURE: [qusteam.png, width=700 frac=0.7]
 
-
-
-=== Using recent advances in pedagogical research and defining potentially new research directions in education rsearch ===
-
 The reason why we believe the CCSE should be involved in planning this BSc program is that it has the necessary expertise to address several issues, such as
 
-!bblock
 o Lots of conceptual learning: superposition, entanglement, QIS and QT, etc. 
 o Connecting statistics and mathematics with ML methods
 o Linking ML algorithms with quantum ML.
@@ -210,39 +198,35 @@ o Coding is indispensable. This is a central reason why the CCSE should be invol
 o Experience with teamwork, project management, and communication are important and highly valued.
 o Experience with engagement with industry, public sector and priority to diversity through the Computational Science program and other activities at the CCSE.
 o Mentorship should begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value, as the activities of the KURT center.
-!eblock
 
 
 ===== Societal needs =====
 
-!bblock
-The program aims at addressing future societal needs, such as the  needs for specialized candidates (Master of Science, PhDs, postdocs), but also the needs of  people with a broad overview of what is possible in  QIS and QT. There are  not enough potential employees in AI, ML, QIS and QT. There is  a clear supply gap.
-!eblock
+The program aims at addressing future societal needs, such as the
+needs for specialized candidates (Master of Science, PhDs, postdocs),
+but also the needs of people with a broad overview of what is possible
+in QIS and QT. There are not enough potential employees in AI, ML, QIS
+and QT. There is a clear supply gap.
 
-!bblock
-A BSc degree  with specialization  is thus a good place to start. Linking this with the Physics MSc  program and the Computational Science program and the study directions Computational physics and Computational materials science, will offer our various research fields top candidates as well as pointing to new research directions. 
-!eblock
+A BSc degree with specialization is thus a good place to
+start. Linking this with the Physics MSc program and the Computational
+Science program and the study directions Computational physics and
+Computational materials science, will offer our various research
+fields top candidates as well as pointing to new research directions.
+
 
 
 
 
 ===== Study specializations in the BSc program =====
 
-!bblock
+
 The program could offer  three possible directions
 o Quantum information systems and quantum technologies
 o Artificial intelligence and machine learning in physics
 o Computational Physics
 
 The students specialize in these directions in their last year of the BSc program.
-!eblock
-
-
-
-
-
-===== Structure and courses  =====
-
 
 There are several existing courses which can be included in this
 program. There are also courses which need to be established. At the
@@ -265,9 +249,11 @@ o Quantum computing and software, needs to be established. This can be organized
 o Quantum hardware, needs to be established, this can be organized together with OsloMet and Simula Research lab. 
 o Quantum computing and quantum machine learning, FYS3446/FYS4446 (cloned course, already developed by CCSE)
 o Advanced machine learning and data analysis for the physical sciences, FYS3447/FYS4447 (already developed by CCSE)
-The last three courses are elective ones for the last semester of study. Some of these courses can also be split into modules a 5 ECTS or 7.5 ECTS.
-There are obviously other course alternatives. 
-The first year is identical with the BSc program _Physics and Astronomy_.
+
+The last three courses are elective ones for the last semester of
+study. Some of these courses can also be split into modules a 5 ECTS
+or 7.5 ECTS.  There are obviously other course alternatives.  The
+first year is identical with the BSc program _Physics and Astronomy_.
 
 The table here is an example of a suggested path for a Master of Science project,
 with course work the first year and thesis work the last year.
