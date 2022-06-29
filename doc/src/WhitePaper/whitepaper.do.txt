@@ -80,9 +80,9 @@ matter. Similarly, ML algorithms are widely applied in condensed
 matter physics, materials science and nanotechnology, in molecular dynamics simulations of complex
 systems in neuroscience and in many other fields in natural science.
 
-Examples of applications in subatomic physics
+Examples of applications in physics (largely subatomic physics)
 o _Artificial Intelligence and Machine Learning in Nuclear Physics_, Amber Boehnlein et al., "arXiv:2112.02309":"https://arxiv.org/abs/2112.02309" and Reviews of Modern Physics, 2022, in press
-o _Predicting Solid State Material Platforms for Quantum Technologies_, Hebnes et al,. "arXiv:2203.16203":"https://arxiv.org/abs/2203.16203"
+o _Predicting Solid State Material Platforms for Quantum Technologies_, Hebnes et al,. "arXiv:2203.16203":"https://arxiv.org/abs/2203.16203", Nature Materials Communications, submitted.
 o "Mehta et al.":"https://arxiv.org/abs/1803.08823" and "Physics Reports (2019)":"https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub".
 o "Machine Learning and the Physical Sciences by Carleo et al":"https://link.aps.org/doi/10.1103/RevModPhys.91.045002"
 o "Particle Data Group summary on ML methods":"https://pdg.lbl.gov/2021/reviews/rpp2021-rev-machine-learning.pdf"
@@ -105,16 +105,18 @@ advantage.
 
 In addition to theoretical activities conducted at the
 Department of Physics (mainly at the Center for Computing in Science
-Education (CCSE) and the condensed matter group and other groups), there is a growing
+Education (CCSE) and the condensed matter group and theory group), there is a growing
 interest to study candidate systems for making quantum hardware. In
 particular, so-called point defects in semiconductors are pursued by
 experimenters at the center for Materials Science.  With this broad
-list of activities at the department of physics, there is a huge
+list of activities at the department of physics, there is a clear
 potential to prepare the ground for educating physicists with the
 theoretical and experimental background needed for the 21st
 century. There is also a great interest in candidates with such a
 background, knowledge, skills and competences in industry and the
 public sector.
+
+Establishing such a program, could also lay the foundations for theoretical and experimental activities in quantum technologies.
 
 === Why such a program? ===
 
@@ -122,29 +124,33 @@ public sector.
 Establishing such an educational program will be unique in Norway and
 has the potential to attract excellent students.  The popularity of
 the Computational Science and in particular the Computational Physics
-and Computational Materials Science study direction are clear
-indicattors that these are fields with the potential to attract new
-students.
+and Computational Materials Science study direction indicates that
+these are fields with the potential to attract new students.
 
-
+We may also consider adding a new study direction (or changing the
+name of Physics and Materials Science to Computational Physics and
+Quantum Technologies) for the CS master of science program.
 
 Furthermore,
 Oslo Metropolitan university  has recently acquired two quantum quantum computers, see URL:"https://kommunikasjon.ntb.no/pressemelding/oslomet-avduker-norges-forste-kvantedatamaskin?publisherId=15678779&releaseId=17917781" and is now establishing research and educational initiatives in quantum information systems. There are thus several interesting avenues for joint collaborations in quantum information systems and quantum technologies as well as developing joint educational programs.
 
-!split
+
 ===== Links of interest to other (mainly MSc and PhD level) programs  =====
 
-"List over top 20 quantum computing graduate programs (master of science and PhD programs) in 2022":"https://thequantuminsider.com/2022/06/06/top-20-quantum-computing-masters-ph-d-programs-in-2022/"
+There are many universities around the world offering quantum
+computing as a graduate program, allowing a bridge to form
+between research and industry. This is especially beneficial for
+students looking to transition from academia into a quantum computing
+job. 
+" The list here shows some of the  top 20 quantum computing graduate programs (master of science and PhD programs) in 2022":"https://thequantuminsider.com/2022/06/06/top-20-quantum-computing-masters-ph-d-programs-in-2022/"
 
-
+In addition to the above list, see also
 o "University of Copenhagen":"https://www.math.ku.dk/english/about/news/quantum-information-science-programme/"
 o "EPFL Lausanne":"https://thequantumhubs.com/epfl-offers-a-new-master-in-quantum-science-and-engineering/"
 o "University of Barcelona":"https://quantummasterbarcelona.eu/"
 o "ETH Zurich":"https://master-qe.ethz.ch/"
 o "Quantum Technology Open Master":"https://qtom.qtedu.eu/"
-o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/", see also
-URL":"https://op.europa.eu/en/publication-detail/-/publication/93ecfd3c-2005-11ec-bd8e-01aa75ed71a1/language-en", URL":"https://www.eucor-uni.org/en/qustec/", and URL":"https://cordis.europa.eu/project/id/951787".
-
+o "European Master Certificate in Quantum Science and Technology":"http://efeqt.eu/"
 
 
 ===== More on motivation =====
@@ -183,22 +189,27 @@ In developing such a program the Center for Computing in Science
 Education (CCSE) at the university of Oslo (UiO) could be the entity
 which provides the pedagogical research resources. It has the needed
 research experience on how to design curricula so that students
-develop deep knowledge that is connected and useful.
+develop deep knowledge that is connected and useful. Together with colleagues and interested teachers from other research groups, one can establish an educational team which oversees the development of courses in these topics and lays the foundation for an innovative educational program. 
 
 The figure here, inspired by the QuSTEAM project in the USA URL:"https://qusteam.org"
 shows how one can link educational developments by involving various stakeholders from academia, industry research  laboratories. 
 
 FIGURE: [qusteam.png, width=700 frac=0.7]
 
-The reason why we believe the CCSE should be involved in planning this BSc program is that it has the necessary expertise to address several issues, such as
+To base the development of courses and educational programs on
+established research in physics education has several important
+aspects. In particular, quantum mechanics is a highly non-trivial
+topic to teach and there are several topics which deserve the
+attention of physics education research, such as
 
 o Lots of conceptual learning: superposition, entanglement, QIS and QT, etc. 
 o Connecting statistics and mathematics with ML methods
 o Linking ML algorithms with quantum ML.
-o Coding is indispensable. This is a central reason why the CCSE should be involved.
+o Coding is indispensable. This is a central reason why the CCSE could (or should) be involved.
+o Machine learning and artificial intelligence in physics involve also many compiutational aspects which fit well with data analysis and statistics.
 o Experience with teamwork, project management, and communication are important and highly valued.
 o Experience with engagement with industry, public sector and priority to diversity through the Computational Science program and other activities at the CCSE.
-o Mentorship should begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value, as the activities of the KURT center.
+o Mentorship should begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value. Similalrly, the activities of the KURT center are highly relevant (with important ramifications to high school education).
 
 
 ===== Societal needs =====
@@ -232,27 +243,29 @@ The students specialize in these directions in their last year of the BSc progra
 There are several existing courses which can be included in this
 program. There are also courses which need to be established. At the
 CCSE we have the research and educational expertise to establish two
-to three new courses in these directions. Most likely there are
-potential teachers from other groups.
+to three new courses in these directions. Similarly, we expect
+potential teachers from both the theory group and the condensed matter
+group.
 
-A separate application for establishing these courses follows. The
-additional courses we propose are (these are suggestions and codes are
-tentative) listed here. Note that we propose these courses as cloned
-courses. We may consider extensions of these codes in order to offer
-PhD variants as well.
+Researchers at the CCSE have for more than twenty years been deeply
+involved in the establishment and development of courses in
+computational physics, data analysis and machine elarning
+(FYS3150/4150 established in 1999 and FYS-STK3155/4155 established in
+2018). Furthermore, the same group offers advanced courses in
+computational physics (FYS4411/9411 and FYS4460/9460 since early 2000)
+and two new courses on quantum computing and advanced data analysis
+and machine learning for the physical sciences (FYS5419/FYS9419 and
+FYS5429/FYS9429, start spring 2023).
 
 
-The list here is tentative. Two of the courses, FYS4446 and FYS4447 have been taught as special topics since 2018 and we have already a large body of material.
-This list is a mere suggestion.
+The list of potential course topics here is tentative. This list is a mere suggestion.
 
-o Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), FYS2440
+o Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), Tentative code FYS2440.
 o Quantum computing and software, needs to be established. This can be organized together with OsloMet and Simula Research lab.
 o Quantum hardware, needs to be established, this can be organized together with OsloMet and Simula Research lab. 
-o Quantum computing and quantum machine learning, FYS3446/FYS4446 (cloned course, already developed by CCSE)
-o Advanced machine learning and data analysis for the physical sciences, FYS3447/FYS4447 (already developed by CCSE)
+o More courses, topics?
 
-The last three courses are elective ones for the last semester of
-study. Some of these courses can also be split into modules a 5 ECTS
+Some of these courses can also be split into modules a 5 ECTS
 or 7.5 ECTS.  There are obviously other course alternatives.  The
 first year is identical with the BSc program _Physics and Astronomy_.
 
@@ -268,7 +281,7 @@ with course work the first year and thesis work the last year.
 |--------l------------------l----------------------l----------------l------------|
 | 4th semester      | FYS2130      | FYS2140    | STK2100/FYS2440      |
 |--------------------------------------------------------------------------------|
-| 3rd semester      | MAT1120      | FYS1120    | FYS3150      |
+| 3rd semester      | MAT1120      | FYS1120    | FYS3150 (revised version)     |
 |--------------------------------------------------------------------------------|
 | 2nd semester      | MAT1110      | FYS12XX    | FYS13XX   |
 |--------------------------------------------------------------------------------|
@@ -295,27 +308,7 @@ What follows are text proposals for these items.
 
 ===== Description of learning outcomes =====
 
-The power of the scientific method lies in identifying a given problem
-as a special case of an abstract class of problems, identifying
-general solution methods for this class of problems, and applying a
-general method to the specific problem (applying means, in the case of
-computing, calculations by pen and paper, symbolic computing, or
-numerical computing by ready-made and/or self-written software). This
-generic view on problems and methods is particularly important for
-understanding how to apply available, generic software to solve a
-particular problem.
-
-
-Computing competence represents a central element
-in scientific problem solving, from basic education and research to
-essentially almost all advanced problems in modern
-societies. Computing competence is simply central to further
-progress. It enlarges the body of tools available to students and
-scientists beyond classical tools and allows for a more generic
-handling of problems. Focusing on algorithmic aspects results in
-deeper insights about scientific problems.
-
-The learning outcomes are subdivided in three general categories, knowledge, skills and general competence.
+This material will be developed during the fall of 2022.
 
 
 
