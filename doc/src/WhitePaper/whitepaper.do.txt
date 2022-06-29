@@ -14,7 +14,7 @@ called _Computational Physics and Quantum Technologies_, with acronym
 _CPQT_. Tentative start fall semester 2024.
 The program will be administrated by the Department of Physics. 
 
-Possible collaborations with:
+Possible collaborations (to be discussed) with:
  
 * Department of Chemistry
 * Department of Informatics
@@ -260,12 +260,17 @@ and machine learning for the physical sciences (FYS5419/FYS9419 and
 FYS5429/FYS9429, start spring 2023).
 
 
-The list of potential course topics here is tentative. This list is a mere suggestion.
+The list of potential course topics here is tentative. This list is a mere suggestion. This is a topic we should spend time on during the fall.
 
 o Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), Tentative code FYS2440.
 o Quantum computing and software, needs to be established. This can be organized together with OsloMet and Simula Research lab.
 o Quantum hardware, needs to be established, this can be organized together with OsloMet and Simula Research lab. 
+o Quantum information theory
 o More courses, topics?
+
+
+
+
 
 Some of these courses can also be split into modules a 5 ECTS
 or 7.5 ECTS.  There are obviously other course alternatives.  The
@@ -294,7 +299,7 @@ with course work the first year and thesis work the last year.
 
 =====  Description of Study directions =====
 
-The basic structure of the study directions could be
+The basic structure of the program could be
 
 * Description of study directions with potential projects
 * Admission criteria
