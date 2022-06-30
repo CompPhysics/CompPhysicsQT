@@ -276,8 +276,7 @@ Some of these courses can also be split into modules a 5 ECTS
 or 7.5 ECTS.  There are obviously other course alternatives.  The
 first year is identical with the BSc program _Physics and Astronomy_.
 
-The table here is an example of a suggested path for a Master of Science project,
-with course work the first year and thesis work the last year.
+The table here is an example of a suggested path a BSc degree.
 
 |--------l------------------l----------------------l---------------l-------------|
 |                   |  10 ECTS           |  10 ECTS     |       10 ECTS          |
