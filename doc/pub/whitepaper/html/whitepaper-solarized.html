@@ -23,6 +23,32 @@ pre {
   border: 0pt solid #93a1a1;
   box-shadow: none;
 }
+.alert-text-small   { font-size: 80%;  }
+.alert-text-large   { font-size: 130%; }
+.alert-text-normal  { font-size: 90%;  }
+.alert {
+  padding:8px 35px 8px 14px; margin-bottom:18px;
+  text-shadow:0 1px 0 rgba(255,255,255,0.5);
+  border:1px solid #93a1a1;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  color: #555;
+  background-color: #eee8d5;
+  background-position: 10px 5px;
+  background-repeat: no-repeat;
+  background-size: 38px;
+  padding-left: 55px;
+  width: 75%;
+ }
+.alert-block {padding-top:14px; padding-bottom:14px}
+.alert-block > p, .alert-block > ul {margin-bottom:1em}
+.alert li {margin-top: 1em}
+.alert-block p+p {margin-top:5px}
+.alert-notice { background-image: url(https://cdn.rawgit.com/doconce/doconce/master/bundled/html_images/small_yellow_notice.png); }
+.alert-summary  { background-image:url(https://cdn.rawgit.com/doconce/doconce/master/bundled/html_images/small_yellow_summary.png); }
+.alert-warning { background-image: url(https://cdn.rawgit.com/doconce/doconce/master/bundled/html_images/small_yellow_warning.png); }
+.alert-question {background-image:url(https://cdn.rawgit.com/doconce/doconce/master/bundled/html_images/small_yellow_question.png); }
 div { text-align: justify; text-justify: inter-word; }
 .tab {
   padding-left: 1.5em;
@@ -64,19 +90,15 @@ div.toc p,a {
                2,
                None,
                'study-specializations-in-the-bsc-program'),
-              ('Description of Study directions',
+              ('Education', 2, None, 'education'),
+              ('Possible courses', 2, None, 'possible-courses'),
+              ('Important Issues to think of',
                2,
                None,
-               'description-of-study-directions'),
-              ('Description of learning outcomes',
-               2,
-               None,
-               'description-of-learning-outcomes'),
-              ('Study abroad and international collaborators',
-               2,
-               None,
-               'study-abroad-and-international-collaborators'),
-              ('Career prospects', 2, None, 'career-prospects')]}
+               'important-issues-to-think-of'),
+              ('Observations', 2, None, 'observations'),
+              ('Future Needs/Problems', 2, None, 'future-needs-problems'),
+              ('The many questions', 2, None, 'the-many-questions')]}
 end of tocinfo -->
 
 <body>
@@ -357,16 +379,46 @@ and two new courses on quantum computing and advanced data analysis
 and machine learning for the physical sciences (FYS5419/FYS9419 and
 FYS5429/FYS9429, start spring 2023).
 </p>
-
-<p>The list of potential course topics here is tentative. This list is a mere suggestion. This is a topic we should spend time on during the fall.</p>
+<h2 id="education">Education </h2>
 
 <ol>
-<li> Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), Tentative code FYS2440.</li>
+<li> Incorporate elements of statistical data analysis and Machine Learning in undergraduate programs</li>
+<li> Develop courses on Machine Learning and statistical data analysis</li>
+<li> Build up a series of courses in QIS, inspiration <a href="https://qusteam.org/" target="_blank">QuSTEAM (Quantum Information Science, Technology, Engineering, Arts and Mathematic\</li>
+</ol>
+<p>s) initiative from USA</a></p>
+<ol>
+<li> Modifying contents of present Physics programs or a new program on  Computational Physics and Quantum Technologies
+<ol type="a"></li>
+ <li> study direction/option in <b>quantum technologies</b></li>
+ <li> study direction/option in <b>Artificial Intelligence and Machine Learning</b></li>
+ <li> study direction on Computational Physics</li>
+</ol>
+<li> Master of Science/PhD programs in Computational Science and Data Science
+<ol type="a"></li>
+ <li> UiO has already MSc programs in CS and DS</li>
+ <li> Many other universities are developing or have similar programs</li>
+</ol>
+</ol>
+<h2 id="possible-courses">Possible courses  </h2>
+
+<div class="alert alert-block alert-block alert-text-normal">
+<b>Topics  in a Bachelor of Science/Master of Science</b>
+<p>
+<ol>
+<li> General university course on quantum mech and quantum technologies</li>
+<li> Information Systems</li>
+<li> From Classical Information theory to Quantum Information theory</li>
+<li> Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), FYS2440</li>
 <li> Quantum computing and software, needs to be established. This can be organized together with OsloMet and Simula Research lab.</li>
 <li> Quantum hardware, needs to be established, this can be organized together with OsloMet and Simula Research lab.</li> 
-<li> Quantum information theory</li>
-<li> More courses, topics?</li>
+<li> Quantum computing and quantum machine learning (FYS5429)</li>
+<li> Advanced machine learning and data analysis for the physical sciences (FYS5419)</li>
 </ol>
+<p>The first year is identical with the BSc program <b>Physics and Astronomy</b>.</p>
+</div>
+~
+
 <p>Some of these courses can also be split into modules a 5 ECTS
 or 7.5 ECTS.  There are obviously other course alternatives.  The
 first year is identical with the BSc program <b>Physics and Astronomy</b>.
@@ -387,58 +439,44 @@ first year is identical with the BSc program <b>Physics and Astronomy</b>.
 <tr><td align="left">   1st semester    </td> <td align="left">   MAT1100     </td> <td align="left">   IN1900      </td> <td align="left">   FYS11XX                      </td> </tr>
 </tbody>
 </table>
-<h2 id="description-of-study-directions">Description of Study directions </h2>
+<h2 id="important-issues-to-think-of">Important Issues to think of </h2>
 
-<p>The basic structure of the program could be</p>
+<ol>
+<li> How to include concepts from statistical data analysis and machine learning</li>
+<li> Lots of conceptual learning: superposition, entanglement, QIS applications, etc.</li>
+<li> Coding is indispensable.</li> 
+<li> Teamwork, project management, and communication are important and highly valued</li>
+<li> Active learning</li>
+<li> Engagement with industry: guest lectures, virtual tours, co-ops, and/or internships.</li>
+<li> Mentorship could begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value, as the activities of the KURT center.</li>
+</ol>
+<p>Many interesting physics education research topics (CCSE).</p>
+<h2 id="observations">Observations </h2>
 
-<ul>
-<li> Description of study directions with potential projects</li>
-<li> Admission criteria</li>
-<li> Learning outcomes</li>
-<li> Program structure</li>
-<li> Semester abroad</li>
-<li> Career prospects</li>
-<li> Teaching and examinations</li>
-</ul>
-<p>What follows are text proposals for these items.</p>
-<h2 id="description-of-learning-outcomes">Description of learning outcomes </h2>
+<ol>
+<li> Students do not really know what QIS is.</li>
+<li> ML/AI seen as black boxes/magic!</li>
+<li> Students perceive that a graduate degree is necessary to work in QIS. A BSc will help.</li>
+</ol>
+<h2 id="future-needs-problems">Future Needs/Problems </h2>
 
-<p>This material will be developed during the fall of 2022.</p>
-<h2 id="study-abroad-and-international-collaborators">Study abroad and international collaborators </h2>
+<ol>
+<li> There are already  great needs for specialized people (Ph. D. s, postdocs), but also needs of  people with a broad overview of what is possible in ML/AI and/or QIS.</li>
+<li> There are not enough potential employees in AI/ML and QIS . It is a supply gap, not a skills gap.</li>
+<li> A BSc with specialization  is a good place to start</li>
+<li> It is tremendously important to get everyone speaking the same language. Facility with the vernacular of quantum mechanics is a big plus.</li>
+</ol>
+<h2 id="the-many-questions">The many questions </h2>
 
-<p>Students at the University of Oslo may choose to take parts of
-their degrees at a university abroad.
-</p>
-
-<p>Students in this program have a number of interesting international
-exchange possibilities. The involved researchers have extensive
-collaborations with other researchers worldwide. These exchange
-possibility range from top universities in the USA, Asia and Europe as
-well as leading National Laboratories in the USA.
-</p>
-<h2 id="career-prospects">Career prospects </h2>
-
-<p>Candidates who are capable of modeling and understanding complicated
-systems in natural science, are in short supply in society.  The
-computational methods and approaches to scientific problems students learn
-when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  To handle large
-numerical projects demands structured thinking and good analytical
-skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the job market.
-</p>
-
-<p>Career opportunities are many, from research institutes, universities
-and university colleges and a multitude of companies. Examples
-include IBM, Hydro, Statoil, and Telenor.  The program gives an
-excellent background for further studies.
-</p>
-
-<p>The program has also a strong international element which allows students to
-gain important experience from international collaborations in
-science, with the opportunity to spend parts of the time spent on
-thesis work at research institutions abroad.
-</p>
+<div class="alert alert-block alert-block alert-text-normal">
+<b></b>
+<p>
+<ol>
+<li> Do we need a new BSc program in Physics? Could these educational paths be defined as study directions under the Physics program?</li>
+<li> Potential, Strengths, possibilities and weaknesses of such a program</li>
+<li> and more</li>
+</ol>
+</div>
 
 <!-- ------------------- end of main content --------------- -->
 </body>

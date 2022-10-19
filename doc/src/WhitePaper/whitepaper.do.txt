@@ -260,16 +260,36 @@ and machine learning for the physical sciences (FYS5419/FYS9419 and
 FYS5429/FYS9429, start spring 2023).
 
 
-The list of potential course topics here is tentative. This list is a mere suggestion. This is a topic we should spend time on during the fall.
 
-o Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), Tentative code FYS2440.
+=====  Education =====
+
+o Incorporate elements of statistical data analysis and Machine Learning in undergraduate programs
+o Develop courses on Machine Learning and statistical data analysis
+o Build up a series of courses in QIS, inspiration "QuSTEAM (Quantum Information Science, Technology, Engineering, Arts and Mathematic\
+s) initiative from USA":"https://qusteam.org/"
+o Modifying contents of present Physics programs or a new program on  Computational Physics and Quantum Technologies
+  o study direction/option in _quantum technologies_
+  o study direction/option in _Artificial Intelligence and Machine Learning_
+  o study direction on Computational Physics
+o Master of Science/PhD programs in Computational Science and Data Science
+  o UiO has already MSc programs in CS and DS
+  o Many other universities are developing or have similar programs
+
+
+
+===== Possible courses  =====
+
+!bblock Topics  in a Bachelor of Science/Master of Science
+o General university course on quantum mech and quantum technologies
+o Information Systems
+o From Classical Information theory to Quantum Information theory
+o Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), FYS2440
 o Quantum computing and software, needs to be established. This can be organized together with OsloMet and Simula Research lab.
 o Quantum hardware, needs to be established, this can be organized together with OsloMet and Simula Research lab. 
-o Quantum information theory
-o More courses, topics?
-
-
-
+o Quantum computing and quantum machine learning (FYS5429)
+o Advanced machine learning and data analysis for the physical sciences (FYS5419)
+The first year is identical with the BSc program _Physics and Astronomy_.
+!eblock~
 
 
 Some of these courses can also be split into modules a 5 ECTS
@@ -295,70 +315,38 @@ The table here is an example of a suggested path a BSc degree.
 |--------------------------------------------------------------------------------|
 
 
+===== Important Issues to think of =====
 
-=====  Description of Study directions =====
+o How to include concepts from statistical data analysis and machine learning
+o Lots of conceptual learning: superposition, entanglement, QIS applications, etc.
+o Coding is indispensable. 
+o Teamwork, project management, and communication are important and highly valued
+o Active learning
+o Engagement with industry: guest lectures, virtual tours, co-ops, and/or internships.
+o Mentorship could begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value, as the activities of the KURT center.
 
-The basic structure of the program could be
+Many interesting physics education research topics (CCSE).
 
-* Description of study directions with potential projects
-* Admission criteria
-* Learning outcomes
-* Program structure
-* Semester abroad
-* Career prospects
-* Teaching and examinations
+===== Observations =====
 
-What follows are text proposals for these items.
-
-
-
-===== Description of learning outcomes =====
-
-This material will be developed during the fall of 2022.
+o Students do not really know what QIS is.
+o ML/AI seen as black boxes/magic!
+o Students perceive that a graduate degree is necessary to work in QIS. A BSc will help.
 
 
+===== Future Needs/Problems =====
 
-===== Study abroad and international collaborators =====
-
-
-
-Students at the University of Oslo may choose to take parts of
-their degrees at a university abroad.
-
-Students in this program have a number of interesting international
-exchange possibilities. The involved researchers have extensive
-collaborations with other researchers worldwide. These exchange
-possibility range from top universities in the USA, Asia and Europe as
-well as leading National Laboratories in the USA.
+o There are already  great needs for specialized people (Ph. D. s, postdocs), but also needs of  people with a broad overview of what is possible in ML/AI and/or QIS.
+o There are not enough potential employees in AI/ML and QIS . It is a supply gap, not a skills gap.
+o A BSc with specialization  is a good place to start
+o It is tremendously important to get everyone speaking the same language. Facility with the vernacular of quantum mechanics is a big plus.
 
 
-===== Career prospects =====
+===== The many questions =====
 
-
-Candidates who are capable of modeling and understanding complicated
-systems in natural science, are in short supply in society.  The
-computational methods and approaches to scientific problems students learn
-when working on their thesis projects are very similar to the methods
-they will use in later stages of their careers.  To handle large
-numerical projects demands structured thinking and good analytical
-skills and a thorough understanding of the problems to be solved. This
-knowledge makes the students unique on the job market.
-
-Career opportunities are many, from research institutes, universities
-and university colleges and a multitude of companies. Examples
-include IBM, Hydro, Statoil, and Telenor.  The program gives an
-excellent background for further studies.
-
-
-The program has also a strong international element which allows students to
-gain important experience from international collaborations in
-science, with the opportunity to spend parts of the time spent on
-thesis work at research institutions abroad.
-
-
-
-
-
-
-
+!bblock
+o Do we need a new BSc program in Physics? Could these educational paths be defined as study directions under the Physics program?
+o Potential, Strengths, possibilities and weaknesses of such a program
+o and more
+!eblock
 
