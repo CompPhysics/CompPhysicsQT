@@ -279,7 +279,7 @@ in quantum technologies and computational physics and AI/ML.
 !split
 ===== Description of new courses for BSc study direction =====
 
-=== First course: Introduction to quantum technologies, third semester ===
+=== First course: Introduction to quantum technologies, third semester, 10 ECTS ===
 
 !bblock Content:
 o Motivasjon 
@@ -297,7 +297,7 @@ Understand the difference between qubits and classical bits.
 !eblock
 
 !split
-=== Second course: Quantum materials, fifth semester === 
+=== Second course: Quantum materials, fifth semester, 10 ECTS === 
 
 !bblock First part: Condensed matter physics 
  o Introduction 
@@ -344,3 +344,45 @@ _TBA_
 
 
  
+!split
+=== Third course: Quantum Computing, sixth semester, 10 ECTS === 
+
+!bblock Content
+o Tensor products of Hilbert Spaces and definitions of Computational basis sets
+o Simple Hamiltonians and other operators
+o Unitary transformations, gates and quantum circuits
+o States and Observables for Composite systems
+o Quantum operations
+o Spectral decomposition and measurements
+o Density matrices
+o Schmidt decomposition
+o Entanglement and Entropy
+o Quantum State Preparation
+  * Single qubit state preparation
+  * Two-qubit state preparation
+  * Two-qubit gate preparation
+  * Four qubit state preparation
+o Quantum gates and operations
+o Central quantum algorithms
+o Quantum Fourier Transforms
+o Quantum Phase estimation algorithm
+o VQE, Variational Quantum Eigensolver
+o Simulating Hamiltonians on NISQ quantum computers
+o Jordan-Wigner transformations
+o Suzuki-Trotter approximation
+o Running computations on IBM's machines with Qiskit
+o Quantum Partition Function
+o Quantum Tomography
+o Quantum Error Correction
+!eblock
+
+
+!bblock Learning goals
+After completing this course, you are able to: 
+o apply quantum computing algorithms to selected quantum-mechanical many-particle systems.  
+o describe the differences between quantum and classical computation of quantum mechanical many-particle systems.  
+o discern potential performance gains of quantum vs. classical algorithms.
+o implement and design quantum circuits for studies of quantum mechanical systems.  
+o run these algorithms on existing quantum computers.  
+o understand the role of noise in quantum computing.  
+!eblock
