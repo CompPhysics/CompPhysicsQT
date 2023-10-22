@@ -1,17 +1,23 @@
-TITLE: Bachelor of Science program in Computational Physics and Quantum Technologies  at Department of Physics, UiO
-AUTHOR: Morten Hjorth-Jensen and Anders Malthe-Sørenssen  at Department of Physics and Center for Computing in Science Education, UiO
+TITLE: Including Quantum Technologies and AI/ML in educational programs at the Department of Physics, UiO
+AUTHOR: Marianne Etzelm\"uller Bathen, Morten Hjorth-Jensen, and Lasse Vines   at Department of Physics, UiO
 
 DATE: Planned start: Fall 2024 (?)
 
 
 !split
-===== Bachelor of Science program in Computational Physics and Quantum Technologies =====
+===== Establishing new study directions in the Physics and Astronomy BSc program and Master of Science in Physics =====
 
 !bblock
-We would like to propose a new Bachelor of Science program at the
-Department of Physics of the University of Oslo. This program is
-called _Computational Physics and Quantum Technologies_, with acronym
-_CPQT_. Tentative start fall semester 2024.
+We would like to propose
+o A new study direction under the Physics and Astronomy (PA) BSc program called
+  * _Quantum technologies and AI/ML_ (name to be discussed)
+  * Planned start fall 2024 for the new study direction
+o At a later stage, a possible name change of the PA BSc program to for example
+  * Physics, Astronomy and Quantum Technologies
+o Similarly, the Physics MSc program changes name to
+  * Physics and Quantum Technologies
+  * With a study direction in Quantum Technologies/Science
+  * Computational Physics and AI/ML in the Physical Sciences
 !eblock
 
 
@@ -21,7 +27,7 @@ _CPQT_. Tentative start fall semester 2024.
  * Department of Informatics
  * Department of Mathematics
 
-The program will be administrated by the Department of Physics. 
+The program is  administrated by the Department of Physics. 
 !eblock
 
 !split
@@ -152,12 +158,12 @@ public sector.
 !eblock
 
 !split
-===== Why such a program? =====
+===== Why such a change? =====
 
 !bblock
-Establishing such an educational program will be
+Establishing such educational directions will be
 unique in Norway and has the potential to attract excellent students.
-The popularity of the Computational Science and in particular the Computational Physics and Computational Materials Science study direction are clear indicattors that these are fields with the potential to attract new students.
+The popularity of the Computational Science and in particular the Computational Physics and Computational Materials Science study direction are clear indicators that these are fields with the potential to attract new students.
 !eblock
 
 
@@ -194,7 +200,7 @@ possibilities to develop new experimental activities.
 ===== Rationale  =====
 
 !bblock
-The rationale behind proposing a new bachelor of science (BSc) program in computational physics and quantum technologies (QT) is:
+The rationale behind proposing such new study directions is:
 o To attract at an earlier stage new students with an explicit interest in QIS, QT and AI and ML in physics. 
 o To enhance the recruitment to fields in physics which are in high demand for students and candidates with an expertise in computations, QIS, QT, AI and ML. We expect high demands from both the private sector and the public sector for candidates with these competences, insights and skills.
 o Candidates with such a background will be of great importance for new scientific discoveries and technological innovations. At the department of physics of the university of Oslo there are several research directions whose scientific activities will benefit at large from candidates with such a background, spanning from fast ML for new discoveries to the development of QTs.   
@@ -207,11 +213,6 @@ o Candidates with such a background will be of great importance for new scientif
 In developing such a program 
 the Center for Computing in Science Education (CCSE) at the university of Oslo (UiO) could be the entity which provides the pedagogical research resources. It has the needed research experience
 on how to design curricula so that students develop deep knowledge that is connected and useful.
-
-The figure here, inspired by the QuSTEAM project in the USA URL:"https://qusteam.org"
-shows how one can link educational developments by involving various stakeholders from academia, industry research  laboratories. 
-
-FIGURE: [qusteam.png, width=700 frac=0.7]
 
 
 !split
@@ -291,17 +292,17 @@ with course work the first year and thesis work the last year.
 |--------l------------------l----------------------l---------------l-------------|
 |                   |  10 ECTS           |  10 ECTS     |       10 ECTS          |
 |--------l------------------l----------------------l----------------l------------|
-| 6th semester      | Elective      | Elective    | Elective      |
+| 6th semester      | Elective/ExPhil      | Elective/ML courses    | FYS3XXX Quantum Computing, new      |
 |--------------------------------------------------------------------------------|
-| 5th semester      | FYS2160      | FYS3110    | Elective/FYS-STK3155      |
+| 5th semester      | FYS2160      | FYS3110    | FYS3XXX Quantum Materials, new |
 |--------l------------------l----------------------l----------------l------------|
-| 4th semester      | FYS2130      | FYS2140    | STK2100/FYS2440      |
+| 4th semester      | FYS2130      | FYS2140    | FYS3150/FYS2150      |
 |--------------------------------------------------------------------------------|
-| 3rd semester      | MAT1120      | FYS1120    | FYS3150      |
+| 3rd semester      | MAT1120      | FYS1120    | FYS1XXX Introduction to Quantum Technologies, new      |
 |--------------------------------------------------------------------------------|
-| 2nd semester      | MAT1110      | FYS12XX    | FYS13XX   |
+| 2nd semester      | MAT1110      | STK-FYS1100    | FYS1105   |
 |--------------------------------------------------------------------------------|
-| 1st semester      | MAT1100      | IN1900    | FYS11XX   |
+| 1st semester      | MAT1100      | IN1900    | FYS1100   |
 |--------------------------------------------------------------------------------|
 
 !eblock
@@ -392,66 +393,6 @@ thesis work at research institutions abroad.
 
 
 
-
-!split
-===== The many questions and how do we proceed =====
-
-!bblock
-o Do we need a new BSc program in Physics? Could these educational paths be defined as study directions under the Physics program?
-o Potential, Strengths, possibilities and weaknesses of such a program
-o A possible path, if there is interest in this is:
-  * The education committee of the department of Physics (studie og undervisningsutvalget) initiates the process by establishing a working group with the mandate to explore these possibilities, not later than May/June 2022 with the aim to have a final report by October 2022.
-!eblock
-
-
-
-tstoff og kvantehardware
-Må ha noe om strukturer, kan ha XRD lab
-Må ha noe om båndstruktur, kan ha UV VIS lab
-Snakke om bits, qubtis
-Gjøre litt fabrikasjon, eller spare det til senere?
-Kvantealgoritmer (6 semester)
-Algoritmer og kvanteinformasjonsteori
-Johannes, Morten, Joakim?
-Har allerede et lignende kurs
-Blir som å lage et halvt nytt kurs
-
-MSc i fysikk
-Studieretninger:
-Biologisk og medisinsk fysikk
-Fysikkdidaktikk
-Kjerne og partikkelfysikk
-Romfysikk og teknologi
-Teoretisk fysikk
-Materialer og nanoofysikk (bytte navn)
-Kvanteteknologi (ny)
-ComPhys er eget studieprogram
-
-Underkategorier
-MSc i Fysikk/Kvantegeknologi har to mulige retninger med anbefalte fag:
-Hardware
-Kondenserte faser 1 og 2
-Halvlederkomponenter
-Avansert fabrikasjons- og fabrikeringskurs (ny)
-DFT
-Teori og ML
-ComPhys 1 og 2
-Maskinlæring
-Joakim sitt kurs, moderne fysikk
-Kanskje mangelegemeteori
-DFT
-
-Nye kurs vi må lage
-Avansert fabrikasjons-og karakteriseringskurs
-Lære mer om kvante-hardware
-Lage tunnel junctions
-PL, DLTS
-Måle HBT, Hong Ou Mandel
-Noe superleder-greier?
-Kombiner med den nye varianten av fabrikasjonskurset med 5 stuiepoeng??
-Muligens et mer avansert algoritme- og computing-kurs
-
-Tilsvarende programmer andre steder
 
 ETH
 MSc in quantum engineering

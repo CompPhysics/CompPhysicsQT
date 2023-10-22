@@ -1,0 +1,1070 @@
+%%
+%% Automatically generated file from DocOnce source
+%% (https://github.com/doconce/doconce/)
+%% doconce format latex program.do.txt --minted_latex_style=trac --latex_admon=paragraph --no_mako
+%%
+
+
+%-------------------- begin preamble ----------------------
+
+\documentclass[%
+oneside,                 % oneside: electronic viewing, twoside: printing
+final,                   % draft: marks overfull hboxes, figures with paths
+10pt]{article}
+
+\listfiles               %  print all files needed to compile this document
+
+\usepackage{relsize,makeidx,color,setspace,amsmath,amsfonts,amssymb}
+\usepackage[table]{xcolor}
+\usepackage{bm,ltablex,microtype}
+
+\usepackage[pdftex]{graphicx}
+
+\usepackage[T1]{fontenc}
+%\usepackage[latin1]{inputenc}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{lmodern}         % Latin Modern fonts derived from Computer Modern
+
+% Hyperlinks in PDF:
+\definecolor{linkcolor}{rgb}{0,0,0.4}
+\usepackage{hyperref}
+\hypersetup{
+    breaklinks=true,
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    citecolor=black,
+    filecolor=black,
+    %filecolor=blue,
+    pdfmenubar=true,
+    pdftoolbar=true,
+    bookmarksdepth=3   % Uncomment (and tweak) for PDF bookmarks with more levels than the TOC
+    }
+%\hyperbaseurl{}   % hyperlinks are relative to this root
+
+\setcounter{tocdepth}{2}  % levels in table of contents
+
+\usepackage[framemethod=TikZ]{mdframed}
+
+% --- begin definitions of admonition environments ---
+
+% --- end of definitions of admonition environments ---
+
+% prevent orhpans and widows
+\clubpenalty = 10000
+\widowpenalty = 10000
+
+% --- end of standard preamble for documents ---
+
+
+% insert custom LaTeX commands...
+
+\raggedbottom
+\makeindex
+\usepackage[totoc]{idxlayout}   % for index in the toc
+\usepackage[nottoc]{tocbibind}  % for references/bibliography in the toc
+
+%-------------------- end preamble ----------------------
+
+\begin{document}
+
+% matching end for #ifdef PREAMBLE
+
+\newcommand{\exercisesection}[1]{\subsection*{#1}}
+
+
+% ------------------- main content ----------------------
+
+
+
+% ----------------- title -------------------------
+
+\thispagestyle{empty}
+
+\begin{center}
+{\LARGE\bf
+\begin{spacing}{1.25}
+Including Quantum Technologies and AI/ML in educational programs at the Department of Physics, UiO
+\end{spacing}
+}
+\end{center}
+
+% ----------------- author(s) -------------------------
+
+\begin{center}
+{\bf Marianne Etzelm\"uller Bathen, Morten Hjorth-Jensen, and Lasse Vines}
+\end{center}
+
+    \begin{center}
+% List of all institutions:
+\centerline{{\small Department of Physics, UiO}}
+\end{center}
+    
+% ----------------- end author(s) -------------------------
+
+
+% --- begin date ---
+\begin{center}
+Planned start: Fall 2024 (?)
+\end{center}
+% --- end date ---
+
+\vspace{1cm}
+
+
+% !split
+\subsection{Establishing new study directions in the Physics and Astronomy BSc program and Master of Science in Physics}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+We would like to propose
+\begin{enumerate}
+\item A new study direction under the Physics and Astronomy (PA) BSc program called
+\begin{itemize}
+
+  \item \textbf{Quantum technologies and AI/ML} (name to be discussed)
+
+  \item Planned start fall 2024 for the new study direction
+
+\end{itemize}
+
+\noindent
+\item At a later stage, a possible name change of the PA BSc program to for example
+\begin{itemize}
+
+  \item Physics, Astronomy and Quantum Technologies
+
+\end{itemize}
+
+\noindent
+\item Similarly, the Physics MSc program changes name to
+\begin{itemize}
+
+  \item Physics and Quantum Technologies
+
+  \item With a study direction in Quantum Technologies/Science
+
+  \item Computational Physics and AI/ML in the Physical Sciences
+\end{itemize}
+
+\noindent
+\end{enumerate}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{Possible collaboration with:}
+
+\begin{itemize}
+ \item Department of Chemistry
+
+ \item Department of Informatics
+
+ \item Department of Mathematics
+\end{itemize}
+
+\noindent
+The program is  administrated by the Department of Physics.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Strategic importance}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Computational physics, computational science and data science play a
+central role in scientific investigations and are central to
+innovation in most domains of our lives. These fields underpin the
+majority of today's technological, economic and societal feats. We
+have entered an era in which huge amounts of data offer enormous
+opportunities, but only to those who are able to harness them. The 3rd
+industrial revolution will alter significantly the demands on the
+workforce. In particular, the developments taking place in quantum
+technologies and quantum information systems (QIS) together with
+artificial intelligence (AI) and machine learning (ML) are expected to
+play a significant role in technology developments and innovations,
+and for fundamental discoveries in physics.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{AI and machine learning}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Artificial
+intelligence is built upon integrated machine learning algorithms,
+which in turn are fundamentally rooted in optimization and statistical
+learning.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{AI and ML in Physics}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Artificial intelligence (AI) and Machine learning (ML)  techniques
+have in the last years gained considerable traction in
+scientific discovery. In particular, applications and techniques for
+so-called \textbf{fast ML}, that is high-performance ML methods applied
+to real time experimental data processing, hold great promise for
+enhancing scientific discoveries in many different disciplines.
+These developments cover a broad mix of rapidly
+evolving fields, from the development of ML techniques to computer and
+hardware architectures.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Physics based Machine Learning}
+
+An important and emerging field is what has been dubbed as scientific ML, see the article by Deiana et al \href{{https://arxiv.org/abs/2110.13041}}{Applications and Techniques for Fast Machine Learning in Science, arXiv:2110.13041}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+The authors discuss applications and techniques for fast machine
+learning (ML) in science -- the concept of integrating power ML
+methods into the real-time experimental data processing loop to
+accelerate scientific discovery. The report covers three main areas
+
+\begin{enumerate}
+\item applications for fast ML across a number of scientific domains;
+
+\item techniques for training and implementing performant and resource-efficient ML algorithms;
+
+\item and computing architectures, platforms, and technologies for deploying these algorithms.
+\end{enumerate}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Many new research directions}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+For our research in for example particle and
+nuclear physics, fields which cover a huge range of energy and length scales,
+spanning from our smallest constituents to the physics of dense
+astronomical objects like supernovae and neutron stars, AI and ML
+techniques offer possibilities for new discoveries and deeper insights
+about the physics of atomic nuclei, elementary particles and dense
+matter. Similarly, ML algorithms are widely applied in condensed
+matter physics, materials science and nanotechnology, in molecular dynamics simulations of complex
+systems in neuroscience and in many other fields in natural science.
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{Examples of applications in subatomic physics.}
+\begin{itemize}
+\item \textbf{Artificial Intelligence and Machine Learning in Nuclear Physics}, Amber Boehnlein et al., \href{{https://arxiv.org/abs/2112.02309}}{arXiv:2112.02309} and Reviews of Modern Physics, 2022, in press
+
+\item \textbf{Predicting Solid State Material Platforms for Quantum Technologies}, Hebnes et al,. \href{{https://arxiv.org/abs/2203.16203}}{arXiv:2203.16203}
+
+\item \href{{https://arxiv.org/abs/1803.08823}}{Mehta et al.} and \href{{https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub}}{Physics Reports (2019)}.
+
+\item \href{{https://link.aps.org/doi/10.1103/RevModPhys.91.045002}}{Machine Learning and the Physical Sciences by Carleo et al}
+
+\item \href{{https://pdg.lbl.gov/2021/reviews/rpp2021-rev-machine-learning.pdf}}{Particle Data Group summary on ML methods}
+\end{itemize}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Quantum Information Technologies (QIT)}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Recent developments in quantum information systems
+and technologies offer the possibility to address some of the most
+challenging large-scale problems, whether they are represented by
+complicated interacting quantum mechanical systems or classical
+systems.  Originally proposed by Feynman, the efficient simulation of
+for example quantum systems by other, more controllable quantum
+systems formed the basis for modern constructions of quantum
+computations.  Many algorithmic and theoretical advances have followed
+since the initial work in this area and with recent developments in
+quantum computing hardware there is an additional drive to identify
+early practical problems on which these devices might demonstrate an
+advantage.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{More on QIT}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+In addition to theoretical activities conducted at the
+Department of Physics (mainly at the Center for Computing in Science
+Education (CCSE) and the condensed matter group and other groups), there is a growing
+interest to study candidate systems for making quantum hardware. In
+particular, so-called point defects in semiconductors are pursued by
+experimenters at the center for Materials Science.  With this broad
+list of activities at the department of physics, there is a huge
+potential to prepare the ground for educating physicists with the
+theoretical and experimental background needed for the 21st
+century. There is also a great interest in candidates with such a
+background, knowledge, skills and competences in industry and the
+public sector.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Why such a change?}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Establishing such educational directions will be
+unique in Norway and has the potential to attract excellent students.
+The popularity of the Computational Science and in particular the Computational Physics and Computational Materials Science study direction are clear indicators that these are fields with the potential to attract new students.
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Furthermore,
+Oslo Metropolitan university  has recently acquired two quantum quantum computers, see \href{{https://kommunikasjon.ntb.no/pressemelding/oslomet-avduker-norges-forste-kvantedatamaskin?publisherId=15678779&releaseId=17917781}}{\nolinkurl{https://kommunikasjon.ntb.no/pressemelding/oslomet-avduker-norges-forste-kvantedatamaskin?publisherId=15678779&releaseId=17917781}} and is now establishing research and educational initiatives in quantum information systems. There are thus several interesting avenues for joint collaborations in quantum information systems and quantum technologies as well as developing joint educational programs.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{More on motivation}
+
+Computational physics plays a central role in the above mentioned
+developments.  Computations are simply indispensable.  At the
+department of physics of the university of Oslo this is reflected in
+the extremely popular study direction Computational Physics of the
+master of science (MSc) program Computational Science. This program
+has over the last two decades recruited many excellent students,
+resulting in highly attractive candidates in academia and in industry
+and the public sector. A large fraction of these students have
+specialized either in artificial intelligence and machine learning
+and/or in quantum information systems.  The large majority of the
+these students have job offers at least one year before completing
+their MSc theses. The program has also become one of the most
+selective master programs at the University of Oslo, requiring a grade
+average of 4.7 for entry in 2021. Furthermore, with recent advances in
+quantum technologies, there is a strong potential for new developments
+in the fields of nanotechnology and materials science, with the
+possibilities to develop new experimental activities.
+
+% !split
+\subsection{Rationale}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+The rationale behind proposing such new study directions is:
+\begin{enumerate}
+\item To attract at an earlier stage new students with an explicit interest in QIS, QT and AI and ML in physics. 
+
+\item To enhance the recruitment to fields in physics which are in high demand for students and candidates with an expertise in computations, QIS, QT, AI and ML. We expect high demands from both the private sector and the public sector for candidates with these competences, insights and skills.
+
+\item Candidates with such a background will be of great importance for new scientific discoveries and technological innovations. At the department of physics of the university of Oslo there are several research directions whose scientific activities will benefit at large from candidates with such a background, spanning from fast ML for new discoveries to the development of QTs.   
+\end{enumerate}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Structure of Program and Courses}
+
+In developing such a program 
+the Center for Computing in Science Education (CCSE) at the university of Oslo (UiO) could be the entity which provides the pedagogical research resources. It has the needed research experience
+on how to design curricula so that students develop deep knowledge that is connected and useful.
+
+% !split
+\subsection{Using recent advances in pedagogical research and defining potentially new research directions in education rsearch}
+
+The reason why we believe the CCSE should be involved in planning this BSc program is that it has the necessary expertise to address several issues, such as
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+\begin{enumerate}
+\item Lots of conceptual learning: superposition, entanglement, QIS and QT, etc. 
+
+\item Connecting statistics and mathematics with ML methods
+
+\item Linking ML algorithms with quantum ML.
+
+\item Coding is indispensable. This is a central reason why the CCSE should be involved.
+
+\item Experience with teamwork, project management, and communication are important and highly valued.
+
+\item Experience with engagement with industry, public sector and priority to diversity through the Computational Science program and other activities at the CCSE.
+
+\item Mentorship should begin the moment students enroll. The experiences with the Computational Science program developed at the CCSE will be of great value, as the activities of the KURT center.
+\end{enumerate}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Societal needs}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+The program aims at addressing future societal needs, such as the  needs for specialized candidates (Master of Science, PhDs, postdocs), but also the needs of  people with a broad overview of what is possible in  QIS and QT. There are  not enough potential employees in AI, ML, QIS and QT. There is  a clear supply gap.
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+A BSc degree  with specialization  is thus a good place to start. Linking this with the Physics MSc  program and the Computational Science program and the study directions Computational physics and Computational materials science, will offer our various research fields top candidates as well as pointing to new research directions.
+% --- end paragraph admon ---
+
+
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+And what about AI/ML and quantum technologies towards high-school?
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Paths in the BSc program}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+The program could offer  three possible directions
+\begin{enumerate}
+\item Quantum information systems and quantum technologies
+
+\item Artificial intelligence and machine learning in physics
+
+\item Computational Physics
+\end{enumerate}
+
+\noindent
+The students specialize in these directions in their last year of the BSc program.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Structure and courses}
+
+% --- begin paragraph admon ---
+\paragraph{}
+There are several existing courses which can be included in this program. There are also courses which need to be established. At the CCSE we have the research and educational expertise to establish two to three new courses in these directions. Most likely there are potential teachers from other groups.
+
+A separate application for establishing these courses follows. The additional courses we propose are (these are suggestions and codes are tentative) listed here. Note that we propose these courses as cloned courses. We may consider extensions of these codes in order to offer PhD variants as well.
+
+The list here is tentative. Two of the courses, FYS4446 and FYS4447 have been taught as special topics since 2018 and we have already a large body of material.
+This list is a mere suggestion.
+
+\begin{enumerate}
+\item Classical and quantum laboratory, needs to be established, perhaps by researchers at the Center of Materials Science (LENS group), FYS2440
+
+\item Quantum computing and software, needs to be established. This can be organized together with OsloMet and Simula Research lab.
+
+\item Quantum hardware, needs to be established, this can be organized together with OsloMet and Simula Research lab. 
+
+\item Quantum computing and quantum machine learning, FYS3446/FYS4446 (cloned course, already developed by CCSE)
+
+\item Advanced machine learning and data analysis for the physical sciences, FYS3447/FYS4447 (already developed by CCSE)
+\end{enumerate}
+
+\noindent
+The last three courses are elective ones for the last semester of study. Some of these courses can also be split into modules a 5 ECTS or 7.5 ECTS.
+There are obviously other course alternatives. 
+The first year is identical with the BSc program \textbf{Physics and Astronomy}.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Structure and courses}
+
+% --- begin paragraph admon ---
+\paragraph{}
+The table here is an example of a suggested path for a Master of Science project,
+with course work the first year and thesis work the last year.
+
+
+\begin{quote}
+\begin{tabular}{llll}
+\hline
+\multicolumn{1}{l}{  } & \multicolumn{1}{l}{ 10 ECTS } & \multicolumn{1}{l}{ 10 ECTS } & \multicolumn{1}{l}{ 10 ECTS } \\
+\hline
+6th semester & Elective/ExPhil & Elective/ML courses & FYS3XXX Quantum Computing, new                    \\
+\hline
+5th semester & FYS2160         & FYS3110             & FYS3XXX Quantum Materials, new                    \\
+\hline
+4th semester & FYS2130         & FYS2140             & FYS3150/FYS2150                                   \\
+\hline
+3rd semester & MAT1120         & FYS1120             & FYS1XXX Introduction to Quantum Technologies, new \\
+\hline
+2nd semester & MAT1110         & STK-FYS1100         & FYS1105                                           \\
+\hline
+1st semester & MAT1100         & IN1900              & FYS1100                                           \\
+\hline
+\end{tabular}
+\end{quote}
+
+\noindent
+% --- end paragraph admon ---
+
+
+
+% !split 
+\subsection{Description of Study directions}
+
+The basic structure of the study directions could be
+
+\begin{itemize}
+\item Description of study directions with potential projects
+
+\item Admission criteria
+
+\item Learning outcomes
+
+\item Program structure
+
+\item Semester abroad
+
+\item Career prospects
+
+\item Teaching and examinations
+\end{itemize}
+
+\noindent
+What follows are text proposals for these items.
+
+% !split
+\subsection{Description of learning outcomes}
+
+The power of the scientific method lies in identifying a given problem
+as a special case of an abstract class of problems, identifying
+general solution methods for this class of problems, and applying a
+general method to the specific problem (applying means, in the case of
+computing, calculations by pen and paper, symbolic computing, or
+numerical computing by ready-made and/or self-written software). This
+generic view on problems and methods is particularly important for
+understanding how to apply available, generic software to solve a
+particular problem.
+
+Computing competence represents a central element
+in scientific problem solving, from basic education and research to
+essentially almost all advanced problems in modern
+societies. Computing competence is simply central to further
+progress. It enlarges the body of tools available to students and
+scientists beyond classical tools and allows for a more generic
+handling of problems. Focusing on algorithmic aspects results in
+deeper insights about scientific problems.
+
+The learning outcomes are subdivided in three general categories, knowledge, skills and general competence.
+
+% !split
+\subsection{Study abroad and international collaborators}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+
+Students at the University of Oslo may choose to take parts of
+their degrees at a university abroad.
+
+Students in this program have a number of interesting international
+exchange possibilities. The involved researchers have extensive
+collaborations with other researchers worldwide. These exchange
+possibility range from top universities in the USA, Asia and Europe as
+well as leading National Laboratories in the USA.
+% --- end paragraph admon ---
+
+
+
+% !split
+\subsection{Career prospects}
+
+
+% --- begin paragraph admon ---
+\paragraph{}
+Candidates who are capable of modeling and understanding complicated
+systems in natural science, are in short supply in society.  The
+computational methods and approaches to scientific problems students learn
+when working on their thesis projects are very similar to the methods
+they will use in later stages of their careers.  To handle large
+numerical projects demands structured thinking and good analytical
+skills and a thorough understanding of the problems to be solved. This
+knowledge makes the students unique on the job market.
+
+Career opportunities are many, from research institutes, universities
+and university colleges and a multitude of companies. Examples
+include IBM, Hydro, Statoil, and Telenor.  The program gives an
+excellent background for further studies.
+
+The program has also a strong international element which allows students to
+gain important experience from international collaborations in
+science, with the opportunity to spend parts of the time spent on
+thesis work at research institutions abroad.
+% --- end paragraph admon ---
+
+
+
+ETH
+MSc in quantum engineering
+https://master-qe.ethz.ch/
+https://www.nature.com/articles/s41563-021-01080-6.epdf?sharing_token=hzaL6bfnmuTfmbxDqAhxkNRgN0jAjWel9jnR3ZoTv0MXCITNgQctnLQoGRWhf21yaRB4q5nw18vEzyc8SV_P-jJRufnLzILslhZSFq_PQE-o-160_paOACFYc2ZoEHSyLdsafCp69C0o6krGYLR8EFa_MOv5lg1Cto7SG46IQjY=
+
+Aalto university
+BSc and MSc in QT
+https://www.aalto.fi/en/study-options/quantum-technology-bachelor-of-science-technology-master-of-science-technology
+Qt specific courses
+Introduction to quantum technology
+Quantum materials
+Quantum information
+Quantum labs
+https://www.aalto.fi/en/programmes/aalto-bachelors-programme-in-science-and-technology/curriculum-2022-2024#1-major-studies
+Quantum circuits
+BSc thesis
+Photonics, microscopy, nanotechnology, materials physics, advanced quantum mech, quantum games, practical quantum computing and quantum machine learning are optional
+
+University of Surrey
+Physics with QT
+BSc and MSc
+https://www.surrey.ac.uk/undergraduate/physics-quantum-technologies#structure
+Not much QT specific on BSc level
+
+University of Copenhagen
+MSc in quantum information science
+https://studies.ku.dk/masters/quantum-information-science/
+Three compulsory courses
+Introduction to Quantum Information Science (UCPH)
+Introduction to Quantum Computing (UCPH)
+Applied Quantum Physics: Quantum Information Technology (DTU)
+
+MIT
+Paper: Building a Quantum Engineering Undergraduate Program
+https://dspace.mit.edu/bitstream/handle/1721.1/143817/Building_a_Quantum_Engineering_Undergraduate_Program.pdf?sequence=2
+
+West Chester and Uni Delaware
+https://www.wcupa.edu/communications/newsroom/2023/03.07engineering.aspx
+Combo BSc and MSc
+
+Harvard
+https://gsas.harvard.edu/program/quantum-science-and-engineering
+Graduate, so MSc and PhD
+
+Universities Chicago
+https://chicagoquantum.org/education-and-training/undergraduate-and-graduate-education
+Mest MSc og PhD
+
+Cornell
+https://quantum.cornell.edu/education/
+San Jose state uni
+https://www.sjsu.edu/quantum/
+MSc in quantum tech
+
+Kursinnhold 
+
+Må lage nye kurs om vi skal ha studieretning i kvanteteknologi.
+
+Nye kurs vi må lage 
+
+Introduksjon til kvanteteknologier (3 semester) 
+Grunnleggende kurs 
+Krever kun linalg som forkunnskap 
+Kan tas også av andre, e.g.~IT og kjemistudenter 
+Marianne, Lasse, Johannes?
+Innhold 
+Bits 
+Qubits
+Kvanteteknologier 
+Kvanteinfo
+Litt om Algoritmer, grover og shor f eks 
+Lab 
+Måle transistor, sammenligne med qubits
+Qiskit, måle qubits 
+Kanskje se på enkel Grover Shor algoritmer  
+Quantum materials (5 semester) 
+Slags kompo av eksperimentalfysikk, faststoff og kvantehardware 
+Må ha noe om strukturer, kan ha XRD lab 
+Må ha noe om båndstruktur, kan ha UV VIS lab  
+Snakke om bits, qubtis 
+Gjøre litt fabrikasjon, eller spare det til senere?
+Kvantealgoritmer (6 semester) 
+Algoritmer og kvanteinformasjonsteori 
+Johannes, Morten, Joakim? 
+Har allerede et lignende kurs 
+Blir som å lage et halvt nytt kurs 
+Quantum materials 2? 
+MSc kurs 
+Resten av kondenserte 1 så man kan ta kondenserte 2 
+Døpe om FysEd? 
+Kombinere med nye MENA9510? 
+
+Kurs 1: Introduksjon til kvanteteknologier 
+(Introduction to quantum technologies) 
+Innhold 
+Motivasjon 
+Basic kvantefysikk/ QT at a glance 
+1st and 2nd quantum  
+Kvantebits vs klassiske bits 
+Materialer og praktiske kvanteplattformer 
+Kvantesensorer 
+Kvantekommunikasjon og kryptering 
+Kvanteberegninger til slutt fordi linalg er parallelt  
+
+Læringsmål 
+Hovedmål: generell introduksjon til kvanteteknologi som gir oversikt over hele fagfeltet 
+Forstå forskjellen mellom qubits og klassiske bits 
+
+Ukesplan 
+Motivasjon for kvanteteknologi og oppbygging av faget 
+Popvit oversikt over hele kurset 
+Oversikt over kurset 
+Kvanteteknologier; inndeling i sensorer, kommunikasjon og computing 
+Fra klassisk til moderne fysikk
+Black-body radiation
+Fotoelektrisk effect og fotoner
+UV catastrophe 
+Compton
+De Broglie 
+Grunnleggende konsepter i kvantefysikk 
+Kvantisering av energinivåer 
+Bølgefunksjon 
+Partikkel i boks 
+Fra enkeltatom til fast stoff  
+First and second quantum revolution 
+Halvleder, transistor, minne 
+Fra det makroskopiske til det mikroskopiske 
+Utnytte de mest eksotiske delene av kvantefysikken 
+Tunnelering 
+Entanglement 
+superposition  
+NMR 
+Tunneleringsdioder 
+Utnyttelse av superposisjon og entanglement; fra ide til virkelighet 
+First and second quantum revolution 
+Halvleder, transistor, minne 
+Fra det makroskopiske til det mikroskopiske 
+Utnytte de mest eksotiske delene av kvantefysikken 
+Tunnelering 
+Entanglement 
+superposition  
+Måling i kvanteteknologi 
+NMR 
+Tunneleringsdioder 
+Utnyttelse av superposisjon og entanglement; fra ide til virkelighet 
+Byggeklosser for klassisk og kvanteteknologi 
+Bits
+Qubits 
+Krav og egenskaper til qubits 
+Superposisjon og entanglement i praksis 
+Lab; måle transistorer 
+Lab; måle qubits i qiskit 
+Materialplattformer for qubits 
+Superledere 
+Trapped ion 
+Halvleder (quantum dot, point defects) 
+Optisk 
+Andre plattformer? Vapor phase greier 
+Fabrikasjonsteknologier for kvanteteknologi (halvleder, superleder, trapped ion, optisk) 
+Nanoteknologi 
+Renrom 
+Lasere og optikk 
+Kvantesensorer
+Definisjon og Konsept, meterologi 
+Eksempler 
+Atomic clock 
+NMR 
+LIGO 
+NV i diamant i celler  
+Kvantekommunikasjon 
+Sikkerhet i kommunikasjon med klassik kryptering 
+Måling i kvantefysikk/ measurement of the quantum state   
+QKD 
+Utfordringer: repeaters osv 
+Kvantecomputing; Klassisk vs kvantecomputing 
+Klassiske kretser og logic gates 
+Quantum gates 
+Adiabatisk kvantecomputing 
+Kvantekretser
+Lab 
+Kvantecomputing; Klassisk vs kvantecomputing 
+Klassiske kretser og logic gates 
+Quantum gates 
+Adiabatisk kvantecomputing 
+Kvantekretser
+Kvantecomputing; Kvantealgoritmer og quantum information 
+Shor 
+Grover
+Teste lab, qiskit – Grover 
+Hele informasjonssystemet 
+Kvantecomputing; Status and future  
+Noisy qubits 
+QEC 
+NISQ 
+Quantum machine learning 
+Wrap up 
+Tillegg til forelesninger 
+Undervisningsform: 
+Forelesning, 2 timer per uke?  
+Diskusjonspoppgaver i plenum 
+Menti 
+
+Ukesoppgaver: 
+Gruppeoppgaver for diskusjon hver uke 
+Regneoppgaver noen uker – oblig?? 
+
+Lab:
+Eksp 1: Målinger av bits; dioder og transistorer 
+MiNa 
+Probe station 
+Eksp 2: Noe material-relatert med høy throughput av studenter 
+Teori 1: qiskit, måling av qubits
+Teori 2: qiskit, sette opp enkle kvantekretser, Grover 
+
+Vurdering: 
+Midtveisvurdering 
+Eksamen
+Multiple choice? 
+Prosjekt er urealistisk for mange studenter 
+
+Pensumlitteratur  
+Lage kompendium? 
+
+Kurs 2: Quantum materials 
+
+Ressurser fra lignende kurs
+TU Delft 
+https://ocw.tudelft.nl/course-lectures/1-3-1-quantum-materials/ 
+Quantum materials provide the environment where qubits, the elemental unit of quantum information processing, are defined and live.
+Precision in material uniformity, chemical composition and electrical properties are crucial for the requirements of having both many qubits and long decoherence times.
+Chemical Vapour Deposition is an industrial process that uses high purity gases to make high quality materials, with desired physical and electronic properties.
+Transmission electron microscopy is a process to inspect the fabricated heterostructures with high resolution.
+Temperature, electric fields and magnetic fields are useful parameters to determine properties of quantum materials such as mobility and electron density.
+
+Uppsala university 
+https://www.uu.se/en/study/course?query=1FA654 
+MSc level course 
+Learning outcomes
+On completion of the course, the student should be able to:
+present and apply theoretical condensed matter models and evaluate their applicability under various conditions
+classify condensed matter based on their electronic structure
+apply Dirac formalism to perform quantum mechanical analysis of relevant systems
+carry out and explain experiments in condensed matter physics 
+Reading list: 
+Sakurai, J. J.; Napolitano, Jim., Modern Quantum Mechanics, Third edition., Cambridge, Cambridge University Press, 2021Compulsory*
+Kittel, Charles; McEuen, Paul, Introduction to solid state physics, 8. ed., Hoboken, N.J., Wiley, c2005Compulsory*
+Content: 
+Quantum mechanical formulation of Bloch functions in a periodic crystal. Single particle models for electrons. Descriptions of electrons and quasiparticles with the Schrödinger and Dirac equations. Classification of materials based on their electronic structure. Introductory laboratory experiments in connection to solid state physics. Introduction to emerging phenomena with Dirac materials, conventional and unconventional superconductors, spintronic and topological materials. Short introduction to second quantization.
+
+KTH 
+https://www.kth.se/student/kurser/kurs/SK2904?l=en 
+This course addresses future quantum materials, where control of the electron spin opens possibilities for a new technological era, the "quantum age". Their unique material properties will be described together with a physical description of how such properties occur, and also how these materials have the potential to generate new technological devices and applications for a sustainable society. Furthermore, the course will describe the most important experimental characterization methods used to understand these complex materials down to a subatomic level.
+Intended learning outcomes
+After the course, students should be able to:
+Describe the characteristics of different quantum materials and explain the physical background to these unique characteristics.
+Explain how these materials can be used in future technical applications. 
+analyze how new quantum materials can affect development towards a sustainable society. 
+Assess which experimental methods are best suited to characterize the properties of quantum materials.
+Examination • LAB1 - Laboratory work, 2.0 credits, grading scale: P, F • PRO1 - Poject work, 5.5 credits, grading scale: A, B, C, D, E, FX, F
+Dear participating students of SK2904 "Quantum Materials". The course is given in a mixed format where I will first give a set of general introductory lectures on quantum materials as well as advanced experimental techniques that are utilized to study such materials. There are then a set of topics (see list below) where each student will select one topic to focus on and prepare a presentation about. 
+Topological Insulators vs.~Weyl semimetals
+Two-Dimensional Materials
+Skyrmions
+Quantum Magnets
+Nanostructured semiconductors
+NV Centers in Diamond
+Ferroelectrics {\&} Multiferroics
+High-Temperature Superconductors
+Heavy Fermions
+Manganite and Colossal Magnetoresistance
+Ultra-Cold Atoms
+Aalto University 
+https://mycourses.aalto.fi/course/view.php?id=33560 
+
+Using the links below you should be able to read the course book, Young and Freedman, University Physics (14th Edition), Pearson. 
+Link to the book via Aalto university library https://primo.aalto.fi/permalink/358AALTO_INST/1rd34t9/alma997819554406526
+ Topics 
+• Wave motion: basic quantities, wave equation, wave velocity, energy, reflection and transmission, waves in 3 D, Snell’s law, interference, diffraction, dispersion, group velocity 
+• Particle properties of light: photoelectric effect, X-ray generation and diffraction, Compton scattering, pair production, wave-particle duality, uncertainty relation 
+• Wave properties of particles: Bohr model of hydrogen atom, wave nature of electron 
+• Quantum mechanics of single particle: Schr¨odinger equation, potential wells, quantum tunneling, measurement, 3 D deep potential well, hydrogen atom, angular momentum, hydrogen probability distributions, hydrogen energy levels, electron spin 
+• Many-particle systems: many-body problem, atomic structure and the periodic table, Pauli principle as symmetry, chemical bond, molecular rotations and vibrations 
+• Solid state: energy bands, conductors and insulators, free electron model of metal, superconductivity, insulators, semiconductors 
+
+Learning Outcomes (from Sisu): After the course, the student 
+1. knows the basics of wave propagation 
+2. can explain the formation of intensity distribution in interference and diffraction patterns 
+3. knows the Heisenberg’s uncertainty principle and the wave-particle dualism in quantum mechanics
+4. can solve simple quantum mechanical systems using Schr¨odinger’s equation 
+5. can identify properties of atoms and condensed matter based on quantum mechanics 
+
+Content (from Sisu): Interference, diffraction, dispersion, group- and phase velocity. Heisenberg’s uncertainty principle, wave-particle dualism. Schr¨odinger’s equation, statistical nature of quantum mechanics. Quantum numbers, Pauli exclusion principle, spin and periodic table of elements
+
+https://mycourses.aalto.fi/pluginfile.php/1746418/mod_resource/content/2/mqmat.pdf 
+Quantum Materials BSc course notes!! 
+
+Innhold
+Slags kombinasjon av faststoff, eksperimentalfysikk og quantum hardware
+Krystallstruktur 
+Båndstruktur 
+Halvlederfysikk (enkel) 
+Superledere 
+
+Læringsmål 
+
+Ukesplan 
+Part 1: Condensed matter physics 
+Introduksjon 
+Crystal bonding
+Lattices  
+Reciprocal space 
+Overview of course 
+Crystals 
+Bragg diffraction 
+Brillouin zones 
+XRD/TEM lab 
+Phonons 
+Vibration in atomic chains 
+Dispersion relation 
+Periodic boundary conditions, Born von Karman, DOS 
+Phonons and heat 
+Electrons in the wild 
+Free electron gas 
+DOS i 1D, 2D, 3D 
+Transport properties of electrons 
+Electrons in the solid state  
+Origin of band gap 
+Bloch functions 
+Kronig penny model
+Effective mass model  
+
+Part 2: Quantum materials 
+Trapped ion 
+Bruk som tankeeksperiment
+Manipulating single atoms 
+Applications for QT, memory and computing maybe
+Metals – superconductors  - 1 
+Metals og Fermi surfaces 
+BCS teori 
+Meissner effect og energy gap 
+Type 1 og type 2 
+Superconductors – 2 
+Josephson junctions 
+SQUID 
+Qubits 
+Applications!
+Magnetic field sensing 
+Quantum computing
+Construction of a quantum computer 
+LAB 
+Semiconductors – 1 
+Band gap
+Energy bands 
+Doping 
+Semiconductors – 2  
+Pn junction quickly 
+Heterojunctions in 1, 2 and 3 dimensions 
+Surfaces, interfaces, strain 
+Point defects 
+Single photon emitters 
+Electrical lab, DLTS 
+Application of structures in semicondcutors for QT 
+Quantum wells
+Quantum dots
+Point defects 
+P in Si, Kane quantum computer 
+Applications 
+Sensing
+Communication
+Computing 
+Lab
+Application of structures in semiconductors for QT 
+Quantum wells
+Quantum dots
+Point defects 
+P in Si, Kane quantum computer 
+Applications 
+Sensing
+Communication
+Computing 
+Lab
+Emission of light from quantum materials
+Excitons 
+Defects
+QDs
+PL-lab  
+Manipulation of photons for QT 
+Squeezed light
+LIGO 
+SPDC 
+Entanglement 
+Applications for QT, communication 
+Lab  
+Application and wrap up, next coursed 
+
+Tillegg til forelesninger 
+
+Lab 
+XRD for krystallstruktur 
+Superlederlab 
+Halvleder 
+UV-VIS for båndstruktur 
+Elektrisk lab 
+CV, IV for enkle devices 
+DLTS 
+PL lab 
+Helst en HBT type lab/ squeezed light  
+
+DLTS for defekter?? 
+PL?? 
+Ideelt sett klarer vi hBT, HOM 
+Renrom og nanofabrikasjon blir kanskje det mer avanserte kurset? 
+
+Pensumlitteratur 
+
+
+% ------------------- end of main content ---------------
+
+\end{document}
+
