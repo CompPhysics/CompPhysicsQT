@@ -44,21 +44,23 @@ system doconce split_html $html.html --method=space10
 # Bootstrap style
 html=${name}-bs
 system doconce format html $name --html_style=bootstrap --pygments_html_style=default --html_admon=bootstrap_panel --html_output=$html $opt
-system doconce split_html $html.html --method=split --pagination --nav_button=bottom
+#system doconce split_html $html.html --method=split --pagination --nav_button=bottom
+
+# IPython notebook
+system doconce format ipynb $name $opt
 
 
-# Ordinary plain LaTeX document
-rm -f *.aux  # important after beamer
-system doconce format pdflatex $name --minted_latex_style=trac --latex_admon=paragraph $opt
+# LaTeX Beamer slides
+beamertheme=red_plain
+system doconce format pdflatex $name --latex_title_layout=beamer --latex_table_format=footnotesize $opt
 system doconce ptex2tex $name envir=minted
 # Add special packages
 doconce subst "% Add user's preamble" "\g<1>\n\\usepackage{simplewick}" $name.tex
-doconce replace 'section{' 'section*{' $name.tex
-pdflatex -shell-escape $name
-pdflatex -shell-escape $name
-mv -f $name.pdf ${name}-minted.pdf
-cp $name.tex ${name}-plain-minted.tex
-
+system doconce slides_beamer $name --beamer_slide_theme=$beamertheme
+system pdflatex -shell-escape ${name}
+system pdflatex -shell-escape ${name}
+cp $name.pdf ${name}.pdf
+cp $name.tex ${name}.tex
 
 
 # Publish
@@ -79,4 +81,22 @@ mkdir $dest/$name/html/fig-$name
 fi
 cp -r fig-${name}/* $dest/$name/html/fig-$name
 fi
+
+cp ${name}.ipynb $dest/$name/ipynb
+ipynb_tarfile=ipynb-${name}-src.tar.gz
+if [ ! -f ${ipynb_tarfile} ]; then
+cat > README.txt <<EOF
+This IPython notebook ${name}.ipynb does not require any additional
+programs.
+EOF
+tar czf ${ipynb_tarfile} README.txt
+fi
+cp ${ipynb_tarfile} $dest/$name/ipynb
+
+
+
+
+
+
+
 

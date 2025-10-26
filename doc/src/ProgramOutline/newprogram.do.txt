@@ -1,0 +1,75 @@
+TITLE: Master and bachelor programs in quantum technologies
+AUTHOR: Morten Hjorth-Jensen at Department of Physics, UiO
+DATE: October 27, 2025
+
+
+!split
+===== Possible paths =====
+
+!bblock Alternative 1
+
+o Keep present study direction under the Physics and Astronomy (PA) BSc program called
+  * _Quantum technology_, but increase number of students
+o Similarly, keep existing study direction under the Physics master of Science program
+  * _Quantum Science and Quantum Technology_, but increase number of students
+o And do the same for the CS program with the study direction
+  * _Quantum Information Science and Technology_, but increase number of students
+!eblock
+
+!split
+===== Second alternative  =====
+
+!bblock Alternative 2
+o Keep present study direction under the Physics and Astronomy (PA) BSc program called
+  * _Quantum technology_, but increase number of students
+o Create a new master of science program called
+  * _Quantum Science and Technology_ (or something similar)
+This will have as a consequence that one may eventually drop the study directions in the CS and Physics MSc programs (see below).
+!eblock
+
+
+!split
+===== Third  alternative  =====
+
+!bblock Alternative 3
+o New bachelor program 
+  * _Quantum Science and Technology_ (or something similar)
+o Create a new master of science program called
+  * _Quantum Science and Technology_ (or something similar)
+This will have as a consequence that one may eventually drop the study directions in the CS and Physics MSc programs (see below).
+!eblock
+
+
+!split
+===== New master of science program =====
+
+_Quantum Science and Technology_, as a multidisciplinary endeavor (much along the same lines as the CS program)
+!bblock Collaboration with four possible departments 
+ * Department of Chemistry (quantum chemistry and Hyllerås center, Simen Kvaal and Thomas B. Pedersen, plus several PDs and PhDs)
+ * Department of Informatics (cryptography, cyber security, Audun Jøsang)
+ * Department of Mathematics (quantum information theory, operator algebra group, Alexander Muller-Hermes, Nadia S. Larsen, Eric Bedos and Sergiy Neshveyev plus several PhDs and PDs)
+ * Department of Physics (theory and experiment, several professors, PDs and PhDs, largest activity )
+!eblock
+The program is hosted by the department of Physics.
+
+!split
+===== Core mission of the program  =====
+
+The master program provides advanced knowledge to develop
+cutting-edge theoretical and experimental research in quantum
+simulation, quantum computing, quantum sensors, quantum communications
+and purely formal theoretical aspects.
+
+Various universities, research centres and companies may actively
+participate in teaching the master's degree.
+
+!split
+===== Other universities and research centers =====
+
+o OsloMet
+o Simula research lab
+o Sintef
+o Justervesenet
+o USN
+o FFI and more
+
